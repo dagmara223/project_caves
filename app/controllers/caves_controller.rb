@@ -5,20 +5,37 @@ class CavesController < ApplicationController
   # GET /caves.json
   def index
     @caves = Cave.all
+
+    respond_to do |format|
+      format.html # index.html.erb
+      format.json { render json: @caves }
+    end
   end
 
   # GET /caves/1
   # GET /caves/1.json
   def show
+    @cave = Cave.find(params[:id])
+
+    respond_to do |format|
+      format.html # show.html.erb
+      format.json { render json: @cave }
+    end
   end
 
   # GET /caves/new
   def new
     @cafe = Cave.new
+
+    respond_to do |format|
+      format.html # new.html.erb
+      format.json { render json: @cave }
+    end
   end
 
   # GET /caves/1/edit
   def edit
+    @cave = Cave.find(params[:id])
   end
 
   # POST /caves
@@ -31,7 +48,7 @@ class CavesController < ApplicationController
         format.html { redirect_to @cafe, notice: 'Cave was successfully created.' }
         format.json { render :show, status: :created, location: @cafe }
       else
-        format.html { render :new }
+        format.html { render action: "new" } # { render :new }
         format.json { render json: @cafe.errors, status: :unprocessable_entity }
       end
     end
@@ -40,6 +57,8 @@ class CavesController < ApplicationController
   # PATCH/PUT /caves/1
   # PATCH/PUT /caves/1.json
   def update
+    @cave = Cave.find(params[:id])
+
     respond_to do |format|
       if @cafe.update(cafe_params)
         format.html { redirect_to @cafe, notice: 'Cave was successfully updated.' }
@@ -54,7 +73,9 @@ class CavesController < ApplicationController
   # DELETE /caves/1
   # DELETE /caves/1.json
   def destroy
+    @cave = Cave.find(params[:id])
     @cafe.destroy
+    
     respond_to do |format|
       format.html { redirect_to caves_url, notice: 'Cave was successfully destroyed.' }
       format.json { head :no_content }
