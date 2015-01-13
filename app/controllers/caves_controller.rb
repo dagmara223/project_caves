@@ -4,7 +4,8 @@ class CavesController < ApplicationController
   # GET /caves
   # GET /caves.json
   def index
-    @caves = Cave.all
+  #  @caves = Cave.all
+    @caves = Cave.paginate(:page => params[:page])
 
     respond_to do |format|
       format.html # index.html.erb

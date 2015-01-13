@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'will_paginate'
 gem 'protected_attributes'
 gem 'leaflet-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

@@ -1,3 +1,7 @@
 class Cave < ActiveRecord::Base
-	attr_accessible :address1, :address2, :city, :country, :details, :name, :postal, :state, :lat, :lon
+	attr_accessible :name, :inventory_no, :length, :depth, :denivelation, :genesis, :inventory_id, :x_1992, :y_1992, :lat, :lon
+	self.per_page = 10
 end
+
+
+       

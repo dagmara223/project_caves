@@ -1,0 +1,10 @@
+NAZWA;NR_INWENT;DLUGOSC;GLEBOKOSC;DENIWELACJ;GENEZA;ID;X_1992;Y_1992;X;Y
+Grota w Mechowej;NP-01;61;0;0;wietrzeniowa,erozyjna,;1;455347,8987;752398,4115;18,308;54,6334
+Jaskinia Śnieżna;T.E-13.01;14954;602,5;622; ;2;567407;152989;19,9263;49,2407
+Nisze nad Czarcimi Oknami;NP-06;4,5;0;1;wietrzeniowa,;3;244094,8712;583818,4159;15,1797;53,0583
+Jaskinia Debiutantów;G-1.3;10;1;2,5;tektoniczno-krasowa,;4;615572,4673;333387,3153;20,6425;50,8558
+Jaskinia na Wietrzni;G-1.5;60;10;10;krasowa,;5;615751,8056;333236,8435;20,645;50,8544
+Jaskinia Wielka Śnieżna;T-Wielka Śnieżna;23723;808;824;tektoniczno-krasowa,;6;567168,2155;152902,5794;19,923;49,2399
+Spękana Szczelina;T.E-09.34;11,5;0;4,9;tektoniczna,;7;563643,3699;152415,503;19,8745;49,2359
+Schronisko Równoległe;G-1.2;2;0;0;krasowa,;8;615494,2897;333385,5773;20,6414;50,8558
+Jaskinia w Gackach;N-2.4;115;0;2;krasowa,;9;613463,7771;288857,8387;20,5989;50,4558
