@@ -1,0 +1,47 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Caves</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Inventory no</th>
+      <th>Length</th>
+      <th>Depth</th>
+      <th>Denivelation</th>
+      <th>Genesis</th>
+      <th>Inventory</th>
+      <th>X 1992</th>
+      <th>Y 1992</th>
+      <th>Lat</th>
+      <th>Lon</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @caves.each do |cafe| %>
+      <tr>
+        <td><%= cafe.name %></td>
+        <td><%= cafe.inventory_no %></td>
+        <td><%= cafe.length %></td>
+        <td><%= cafe.depth %></td>
+        <td><%= cafe.denivelation %></td>
+        <td><%= cafe.genesis %></td>
+        <td><%= cafe.inventory_id %></td>
+        <td><%= cafe.x_1992 %></td>
+        <td><%= cafe.y_1992 %></td>
+        <td><%= cafe.lat %></td>
+        <td><%= cafe.lon %></td>
+        <td><%= link_to 'Show', cafe %></td>
+        <td><%= link_to 'Edit', edit_cafe_path(cafe) %></td>
+        <td><%= link_to 'Destroy', cafe, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Cave', new_cafe_path %>

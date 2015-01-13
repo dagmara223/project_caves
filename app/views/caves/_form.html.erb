@@ -1,0 +1,61 @@
+<%= form_for(@cafe) do |f| %>
+  <% if @cafe.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@cafe.errors.count, "error") %> prohibited this cafe from being saved:</h2>
+
+      <ul>
+      <% @cafe.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :inventory_no %><br>
+    <%= f.text_field :inventory_no %>
+  </div>
+  <div class="field">
+    <%= f.label :length %><br>
+    <%= f.text_field :length %>
+  </div>
+  <div class="field">
+    <%= f.label :depth %><br>
+    <%= f.text_field :depth %>
+  </div>
+  <div class="field">
+    <%= f.label :denivelation %><br>
+    <%= f.text_field :denivelation %>
+  </div>
+  <div class="field">
+    <%= f.label :genesis %><br>
+    <%= f.text_field :genesis %>
+  </div>
+  <div class="field">
+    <%= f.label :inventory_id %><br>
+    <%= f.text_field :inventory_id %>
+  </div>
+  <div class="field">
+    <%= f.label :x_1992 %><br>
+    <%= f.text_field :x_1992 %>
+  </div>
+  <div class="field">
+    <%= f.label :y_1992 %><br>
+    <%= f.text_field :y_1992 %>
+  </div>
+  <div class="field">
+    <%= f.label :lat %><br>
+    <%= f.text_field :lat %>
+  </div>
+  <div class="field">
+    <%= f.label :lon %><br>
+    <%= f.text_field :lon %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

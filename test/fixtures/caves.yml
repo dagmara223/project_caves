@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  inventory_no: MyString
+  length: MyString
+  depth: MyString
+  denivelation: MyString
+  genesis: MyString
+  inventory_id: MyString
+  x_1992: MyString
+  y_1992: MyString
+  lat: MyString
+  lon: MyString
+
+two:
+  name: MyString
+  inventory_no: MyString
+  length: MyString
+  depth: MyString
+  denivelation: MyString
+  genesis: MyString
+  inventory_id: MyString
+  x_1992: MyString
+  y_1992: MyString
+  lat: MyString
+  lon: MyString
