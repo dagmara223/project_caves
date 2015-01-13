@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require leaflet
 //= require caves
+//= require markercluster
 //= require_tree .

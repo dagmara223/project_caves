@@ -16,12 +16,16 @@ $ ->
 
   for cave in $(".cave")
     $cave = $(cave)
+
     lat = $cave.data("latitude")
+  #  console.log(parseFloat(lat.replace(",", ".")))
+    lat2 = parseFloat(lat.replace(",", "."))
+
     lon = $cave.data("longitude")
+    lon2 = parseFloat(lon.replace(",", "."))
+
     name = $cave.data("name")
 #  marker = L.marker([lat, lon]).addTo(map)
-    
-    markers.addLayer( new L.marker( [lat, lon] ) )
-    map.addLayer(markers)
-
     markers.bindPopup("<b>#{name}</b><br>Lat: #{lat}, Lon: #{lon}")
+    markers.addLayer( new L.marker( [lat2, lon2] ) )
+    map.addLayer(markers)
