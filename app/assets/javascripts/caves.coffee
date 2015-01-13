@@ -18,14 +18,11 @@ $ ->
     $cave = $(cave)
 
     lat = $cave.data("latitude")
-  #  console.log(parseFloat(lat.replace(",", ".")))
     lat2 = parseFloat(lat.replace(",", "."))
-
     lon = $cave.data("longitude")
     lon2 = parseFloat(lon.replace(",", "."))
-
     name = $cave.data("name")
-#  marker = L.marker([lat, lon]).addTo(map)
-    markers.bindPopup("<b>#{name}</b><br>Lat: #{lat}, Lon: #{lon}")
-    markers.addLayer( new L.marker( [lat2, lon2] ) )
+    marker = L.marker([lat2, lon2])
+    marker.bindPopup("<b>#{name}</b><br>Lat: #{lat}, Lon: #{lon}")
+    markers.addLayer( marker )
     map.addLayer(markers)
