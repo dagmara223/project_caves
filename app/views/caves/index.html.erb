@@ -22,7 +22,9 @@
 
   <tbody>
     <% @caves.each do |cafe| %>
-      <tr>
+
+    <%= content_tag :tr, class: "cave", data: {latitude: (lat=cafe.lat), longitude: (lon=cafe.lon), name: cafe.name} do %>
+
         <td><%= cafe.name %></td>
         <td><%= cafe.inventory_no %></td>
         <td><%= cafe.length %></td>
@@ -37,7 +39,7 @@
         <td><%= link_to 'Show', cafe %></td>
         <td><%= link_to 'Edit', edit_cafe_path(cafe) %></td>
         <td><%= link_to 'Destroy', cafe, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
+      <% end -%>
     <% end %>
   </tbody>
 </table>
