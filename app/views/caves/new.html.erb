@@ -1,5 +1,8 @@
-<h1>New Cafe</h1>
+<%- model_class = Cave -%>
+<h1><%=t '.title', :default => [:'helpers.titles.new', 'New %{model}'], :model => model_class.model_name.human.titleize %></h1>
 
-<%= render 'form' %>
+<h1>New cave</h1>
+
+<%= render :partial => 'form' %>
 
 <%= link_to 'Back', caves_path %>

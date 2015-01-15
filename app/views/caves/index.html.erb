@@ -1,51 +1,66 @@
+<%- model_class = Cave -%>
+
 <p id="notice"><%= notice %></p>
 
 <h1>Listing Caves</h1>
+
+<h1><%=t '.title', :default => model_class.model_name.human.pluralize.titleize %></h1>
+
+<div id="map" style="height: 360px"></div>
+
 <%= will_paginate @caves %>
-<table>
+
+<table class="table table-striped">
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Inventory no</th>
-      <th>Length</th>
-      <th>Depth</th>
-      <th>Denivelation</th>
-      <th>Genesis</th>
-      <th>Inventory</th>
-      <th>X 1992</th>
-      <th>Y 1992</th>
-      <th>Lat</th>
-      <th>Lon</th>
-      <th colspan="3"></th>
+      <th><%= model_class.human_attribute_name(:inventory_id) %></th>
+      <th><%= model_class.human_attribute_name(:name) %></th>
+      <th><%= model_class.human_attribute_name(:inventory_no) %></th>
+      <th><%= model_class.human_attribute_name(:length) %></th>
+      <th><%= model_class.human_attribute_name(:depth) %></th>
+      <th><%= model_class.human_attribute_name(:denivelation) %></th>
+      <th><%= model_class.human_attribute_name(:genesis) %></th>
+      <th><%= model_class.human_attribute_name(:lat) %></th>
+      <th><%= model_class.human_attribute_name(:lon) %></th>
+      <th><%= model_class.human_attribute_name(:created_at) %></th>
+      <th><%=t '.actions', :default => t("helpers.actions") %></th>
     </tr>
   </thead>
 
   <tbody>
-    <% @caves.each do |cafe| %>
+    <% @caves.each do |cave| %>
 
-    <%= content_tag :tr, class: "cave", data: {latitude: (lat=cafe.lat), longitude: (lon=cafe.lon), name: cafe.name} do %>
-
-        <td><%= cafe.name %></td>
-        <td><%= cafe.inventory_no %></td>
-        <td><%= cafe.length %></td>
-        <td><%= cafe.depth %></td>
-        <td><%= cafe.denivelation %></td>
-        <td><%= cafe.genesis %></td>
-        <td><%= cafe.inventory_id %></td>
-        <td><%= cafe.x_1992 %></td>
-        <td><%= cafe.y_1992 %></td>
-        <td><%= cafe.lat %></td>
-        <td><%= cafe.lon %></td>
-        <td><%= link_to 'Show', cafe %></td>
-        <td><%= link_to 'Edit', edit_cafe_path(cafe) %></td>
-        <td><%= link_to 'Destroy', cafe, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <%= content_tag :tr, class: "cave", data: {latitude: (lat=cave.lat), longitude: (lon=cave.lon), name: cave.name} do %>
+        <td><%= cave.inventory_id %></td>
+        <td><%= cave.name %></td>
+        <td><%= cave.inventory_no %></td>
+        <td><%= cave.length %></td>
+        <td><%= cave.depth %></td>
+        <td><%= cave.denivelation %></td>
+        <td><%= cave.genesis %></td>
+        <td><%= cave.lat %></td>
+        <td><%= cave.lon %></td>
+        <td><%= cave.created_at %></td>
+        <td>
+          <%= link_to 'Show', cave %>
+          <%= link_to t('.edit', :default => t("helpers.links.edit")),
+                      edit_cafe_path(cave), :class => 'btn btn-default btn-xs' %>
+          <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+                      cafe_path(cave),
+                      :method => :delete,
+                      :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+                      :class => 'btn btn-xs btn-danger' %>
+        </td>
       <% end -%>
     <% end %>
   </tbody>
 </table>
 
-<div id="map" style="height: 360px"></div>
+<br>
+
+<%= link_to t('.new', :default => t("helpers.links.new")),
+            new_cafe_path,
+            :class => 'btn btn-primary' %>
 
 <br>
 
-<%= link_to 'New Cave', new_cafe_path %>

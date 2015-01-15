@@ -2,7 +2,7 @@ require 'test_helper'
 
 class CavesControllerTest < ActionController::TestCase
   setup do
-    @cafe = caves(:one)
+    @cave = caves(:one)
   end
 
   test "should get index" do
@@ -16,32 +16,32 @@ class CavesControllerTest < ActionController::TestCase
     assert_response :success
   end
 
-  test "should create cafe" do
+  test "should create cave" do
     assert_difference('Cave.count') do
-      post :create, cafe: { denivelation: @cafe.denivelation, depth: @cafe.depth, genesis: @cafe.genesis, inventory_id: @cafe.inventory_id, inventory_no: @cafe.inventory_no, lat: @cafe.lat, length: @cafe.length, lon: @cafe.lon, name: @cafe.name, x_1992: @cafe.x_1992, y_1992: @cafe.y_1992 }
+      post :create, cave: { denivelation: @cave.denivelation, depth: @cave.depth, genesis: @cave.genesis, inventory_id: @cave.inventory_id, inventory_no: @cave.inventory_no, lat: @cave.lat, length: @cave.length, lon: @cave.lon, name: @cave.name, x_1992: @cave.x_1992, y_1992: @cave.y_1992 }
     end
 
-    assert_redirected_to cafe_path(assigns(:cafe))
+    assert_redirected_to cave_path(assigns(:cave))
   end
 
-  test "should show cafe" do
-    get :show, id: @cafe
+  test "should show cave" do
+    get :show, id: @cave
     assert_response :success
   end
 
   test "should get edit" do
-    get :edit, id: @cafe
+    get :edit, id: @cave
     assert_response :success
   end
 
-  test "should update cafe" do
-    patch :update, id: @cafe, cafe: { denivelation: @cafe.denivelation, depth: @cafe.depth, genesis: @cafe.genesis, inventory_id: @cafe.inventory_id, inventory_no: @cafe.inventory_no, lat: @cafe.lat, length: @cafe.length, lon: @cafe.lon, name: @cafe.name, x_1992: @cafe.x_1992, y_1992: @cafe.y_1992 }
-    assert_redirected_to cafe_path(assigns(:cafe))
+  test "should update cave" do
+    patch :update, id: @cave, cave: { denivelation: @cave.denivelation, depth: @cave.depth, genesis: @cave.genesis, inventory_id: @cave.inventory_id, inventory_no: @cave.inventory_no, lat: @cave.lat, length: @cave.length, lon: @cave.lon, name: @cave.name, x_1992: @cave.x_1992, y_1992: @cave.y_1992 }
+    assert_redirected_to cave_path(assigns(:cave))
   end
 
-  test "should destroy cafe" do
+  test "should destroy cave" do
     assert_difference('Cave.count', -1) do
-      delete :destroy, id: @cafe
+      delete :destroy, id: @cave
     end
 
     assert_redirected_to caves_path

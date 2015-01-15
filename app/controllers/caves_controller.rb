@@ -1,5 +1,5 @@
 class CavesController < ApplicationController
-  before_action :set_cafe, only: [:show, :edit, :update, :destroy]
+  before_action :set_cave, only: [:show, :edit, :update, :destroy]
 
   # GET /caves
   # GET /caves.json
@@ -26,7 +26,7 @@ class CavesController < ApplicationController
 
   # GET /caves/new
   def new
-    @cafe = Cave.new
+    @cave = Cave.new
 
     respond_to do |format|
       format.html # new.html.erb
@@ -42,15 +42,15 @@ class CavesController < ApplicationController
   # POST /caves
   # POST /caves.json
   def create
-    @cafe = Cave.new(cafe_params)
+    @cave = Cave.new(cave_params)
 
     respond_to do |format|
-      if @cafe.save
-        format.html { redirect_to @cafe, notice: 'Cave was successfully created.' }
-        format.json { render :show, status: :created, location: @cafe }
+      if @cave.save
+        format.html { redirect_to @cave, notice: 'Cave was successfully created.' }
+        format.json { render :show, status: :created, location: @cave }
       else
         format.html { render action: "new" } # { render :new }
-        format.json { render json: @cafe.errors, status: :unprocessable_entity }
+        format.json { render json: @cave.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -61,12 +61,12 @@ class CavesController < ApplicationController
     @cave = Cave.find(params[:id])
 
     respond_to do |format|
-      if @cafe.update(cafe_params)
-        format.html { redirect_to @cafe, notice: 'Cave was successfully updated.' }
-        format.json { render :show, status: :ok, location: @cafe }
+      if @cave.update(cave_params)
+        format.html { redirect_to @cave, notice: 'Cave was successfully updated.' }
+        format.json { render :show, status: :ok, location: @cave }
       else
         format.html { render :edit }
-        format.json { render json: @cafe.errors, status: :unprocessable_entity }
+        format.json { render json: @cave.errors, status: :unprocessable_entity }
       end
     end
   end
@@ -75,7 +75,7 @@ class CavesController < ApplicationController
   # DELETE /caves/1.json
   def destroy
     @cave = Cave.find(params[:id])
-    @cafe.destroy
+    @cave.destroy
     
     respond_to do |format|
       format.html { redirect_to caves_url, notice: 'Cave was successfully destroyed.' }
@@ -85,12 +85,12 @@ class CavesController < ApplicationController
 
   private
     # Use callbacks to share common setup or constraints between actions.
-    def set_cafe
-      @cafe = Cave.find(params[:id])
+    def set_cave
+      @cave = Cave.find(params[:id])
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
-    def cafe_params
+    def cave_params
       params.require(:cave).permit(:name, :inventory_no, :length, :depth, :denivelation, :genesis, :inventory_id, :x_1992, :y_1992, :lat, :lon)
     end
 end

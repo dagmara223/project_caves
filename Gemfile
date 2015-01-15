@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "twitter-bootstrap-rails"
 gem 'will_paginate'
 gem 'protected_attributes'
 gem 'leaflet-rails'
