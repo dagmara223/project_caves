@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 gem "twitter-bootstrap-rails"
 gem 'will_paginate'
-gem 'protected_attributes'
+#gem 'protected_attributes'
 gem 'leaflet-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'

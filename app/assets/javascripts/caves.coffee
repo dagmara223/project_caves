@@ -9,7 +9,7 @@ $ ->
 
   L.tileLayer("http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-      maxZoom: 18
+      maxZoom: 15
   }).addTo(map)
 
   markers = new L.MarkerClusterGroup()
