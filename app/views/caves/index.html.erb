@@ -2,13 +2,14 @@
 
 <p id="notice"><%= notice %></p>
 
-<h1>Listing Caves</h1>
+<div id ="section_map"></div>
+<h1><%=t '.title', :default => model_class.model_name.human.pluralize.titleize %> Map</h1>
 
-<h1><%=t '.title', :default => model_class.model_name.human.pluralize.titleize %></h1>
 
 <div id="map" style="height: 360px"></div>
 
-<%= will_paginate @caves %>
+<div id ="section_table"></div>
+<h1>Caves List</h1>
 
 <table class="table table-striped">
   <thead>
@@ -22,7 +23,6 @@
       <th><%= model_class.human_attribute_name(:genesis) %></th>
       <th><%= model_class.human_attribute_name(:lat) %></th>
       <th><%= model_class.human_attribute_name(:lon) %></th>
-      <th><%= model_class.human_attribute_name(:created_at) %></th>
       <th><%=t '.actions', :default => t("helpers.actions") %></th>
     </tr>
   </thead>
@@ -40,7 +40,6 @@
         <td><%= cave.genesis %></td>
         <td><%= cave.lat %></td>
         <td><%= cave.lon %></td>
-        <td><%= cave.created_at %></td>
         <td>
           <%= link_to t('.show', :default => t("helpers.links.show")),
                       cafe_path(cave), :class => 'btn btn-primary btn-xs' %>

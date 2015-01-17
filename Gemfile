@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'jquery-datatables-rails'
 gem 'devise'
 gem "twitter-bootstrap-rails"
 gem 'will_paginate'
