@@ -6,4 +6,15 @@ ProjectCaves - rails + leaflet js map integration project. To get up and feed wi
 
 * <tt>rake import_caves</tt>
 
+app at: 
+https://ide.c9.io/dagmara223/project_caves
+
+sync with github and run by <tt>rails s -p $PORT -b $IP</tt>
+
+---
+heroku 
+https://devcenter.heroku.com/articles/getting-started-with-ruby#deploy-the-app
+
+sqlite3 fail...
+
 2015-01

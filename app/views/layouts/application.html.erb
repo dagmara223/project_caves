@@ -51,7 +51,7 @@
             <li><%= link_to "Map", "/caves#section_map"  %></li>
             <li><%= link_to "Table", "caves#section_table"  %></li>
             <% if user_signed_in? %>
-            <li><%= link_to "Link3", "/path3"  %></li>
+            <li><%= link_to "...", "#"  %></li>
             <% end %>
           </ul>
         </div>
@@ -71,13 +71,13 @@
               <% end %>
               </div>
 
-            <h3>Menu</h3>
+            <h3>Caveman menu</h3>
             <ul class="nav nav-list">
-              <li class="nav-header">My caves</li>
+              <li class="nav-header">View caves on:</li>
               <li><%= link_to "Map", "/caves#section_map"  %></li>
               <li><%= link_to "Table", "/caves#section_table"  %></li>
               <% if user_signed_in? %>
-                <li><%= link_to "Link3", "/path3"  %></li>
+                <li><%= link_to "...", "#"  %></li>
               <% end %>
             </ul>
           </div><!--/.well -->

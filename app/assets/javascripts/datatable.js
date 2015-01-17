@@ -10,7 +10,7 @@ $(document).ready(function() {
 	  // Check dataTables documentation to learn more about available options.
 	  // http://datatables.net/reference/option/pagingType
 	});
-	$(document).on('click', '.table, .paginate_button', function() {
+	$(document).on('click', '.table, .paginate_button, .sorting', function() {
   		console.log("table sorting changed");
   		MAP.removeLayers();
   		MAP.addMarkers();

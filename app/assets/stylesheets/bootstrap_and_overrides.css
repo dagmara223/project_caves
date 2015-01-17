@@ -6,7 +6,6 @@
   =require twitter-bootstrap-static/fontawesome
   */
 
-
 .dataTables_wrapper, .dataTables_paginate, .paginate_button{
 	padding: 0;
 }
@@ -21,14 +20,24 @@
 
 .navbar {
 	position: fixed;
+	top: -55px;
 	width: 100%;
 	z-index: 1001;
+	background-color: rgba(0,0,0,0.7);
 }
 
-.well, #section_show {
+.navbar a {
+	color: white !important;
+}
+
+.well, #section_show, .container {
 	margin-top: 55px;
 }
 
 #section_map, #section_table {
 	height: 55px;
+}
+
+.justify {
+	text-align: justify;
 }

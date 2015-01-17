@@ -498,4 +498,3 @@ Schron w Opalonem II;T.D-06.11;3,5;0;0;tektoniczna,;497;560889,8919;153835,084;1
 Okap na Wzgórzu Żary II;J.Cz.IV-02.29;10;0;2,1;krasowa,;498;537128,1737;283660,6897;19,5228;50,4189
 Jaskinia między Żleby;T.D-08.06;19;0;0;krasowo-tektoniczna,;499;563055,6967;153961,3493;19,8667;49,2499
 Ruda Nyża;T.D-14.02;9;0;5,4;tektoniczno-krasowa,;500;568317,8845;154180,5228;19,9391;49,2513
-Jaskinia Goryckiego;T.D-08.05;16;3,7;3,7;tektoniczno-krasowa,;501;563020,4717;153970,4136;19,8662;49,25
