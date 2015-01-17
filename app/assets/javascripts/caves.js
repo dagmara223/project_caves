@@ -2,11 +2,37 @@ var MAP = {
 	map : {},
 	markers : {},
 	createMap : function() {
-		map = L.map('map').setView([52.23, 21.03], 5);
-		  L.tileLayer("http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", {
-		    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+	//	map = L.map('map').setView([52.23, 21.03], 5);
+		var baseLayer1 = L.tileLayer("http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png", {
+		    attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> | ProjectCaves',
 		    maxZoom: 15
-		  }).addTo(map);
+		});
+		var baseLayer2 = L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+		    attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> | ProjectCaves',
+		    maxZoom: 15
+		});
+		var baseLayer3 = L.tileLayer("http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}", {
+		    attribution: '&copy; Esri | ProjectCaves',
+		    maxZoom: 15
+		});
+		var baseLayer4 = L.tileLayer("http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+		    attribution: '&copy; Esri | ProjectCaves',
+		    maxZoom: 15
+		});
+
+		map = L.map('map', {
+		    center: [52.23, 21.03],
+		    zoom: 5,
+		    layers: baseLayer1
+		});			
+		var baseMaps = {
+		    "Gray": baseLayer1,
+		    "OpenStreetMap": baseLayer2,
+		    "Esri Topo": baseLayer3,
+		    "Esri Imagery": baseLayer4
+		}; 
+		L.control.layers(baseMaps).addTo(map);
+		
 	},
 	addMarkers : function() {
 		var $cave, cave, lat, lat2, lon, lon2, marker, name, _i, _len, _ref, _results;
