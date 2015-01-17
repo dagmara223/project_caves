@@ -3,6 +3,8 @@
 <div id ="section_map"><p class="justify"><strong>Welcome!</strong> This app shows selected caves in Poland aquired from <%= link_to 'PGI NRI', 'http://www.pgi.gov.pl/' %> database. App was created in <%= link_to 'Ruby on Rails', 'http://rubyonrails.org/'%> & <%= link_to 'Leaflet JS', 'http://leafletjs.com/'%>. Registered users are eligible for commiting changes (editing details, deleting and adding new locations). Table can be sorted and searched for records to be displayed on map. For notices, guidance etc. please feel free to <%= mail_to 'dagmara.223@gmail.com', 'e-mail'%> me.</p></div>
 <h1><%=t '.title', :default => model_class.model_name.human.pluralize.titleize %> Map</h1>
 
+<%= image_tag "sort_asc.png" %>
+
 
 <div id="map" style="height: 360px"></div>
 
