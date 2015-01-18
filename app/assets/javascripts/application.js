@@ -20,4 +20,6 @@
 //= require leaflet
 //= require caves
 //= require markercluster
+//= require jQueryprint
+//= require leafleteasyPrint
 //= require_tree .

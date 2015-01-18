@@ -17,4 +17,5 @@
  *= require dataTables/bootstrap/3/jquery.dataTables.bootstrap
  *= require dataTables/jquery.dataTables
  *= require bootstrap_and_overrides
+ *= require easyPrint 
  */

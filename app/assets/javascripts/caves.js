@@ -55,6 +55,7 @@ var MAP = {
       		//	}
     		}
   		});
+  		L.easyPrint().addTo(map);
 	},
 	addMarkers : function() {
 		var $cave, cave, lat, lat2, lon, lon2, marker, name, _i, _len, _ref, _results;
