@@ -14,7 +14,7 @@
 <table class="table table-striped">
   <thead>
     <tr>
-      <th><%= model_class.human_attribute_name(:inventory_id) %></th>
+      <th>No.</th>
       <th><%= model_class.human_attribute_name(:name) %></th>
       <th><%= model_class.human_attribute_name(:inventory_no) %></th>
       <th><%= model_class.human_attribute_name(:length) %></th>
@@ -31,7 +31,11 @@
     <% @caves.each do |cave| %>
 
     <%= content_tag :tr, class: "cave", data: {latitude: (lat=cave.lat), longitude: (lon=cave.lon), name: cave.name} do %>
-        <td><%= cave.inventory_id %></td>
+        <td>
+          <% (1..x).each do |i| %>
+            <%= i %>    
+          <% end %>
+        </td>
         <td><%= cave.name %></td>
         <td><%= cave.inventory_no %></td>
         <td><%= cave.length %></td>

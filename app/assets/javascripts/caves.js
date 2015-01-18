@@ -19,6 +19,9 @@ var MAP = {
 		    attribution: '&copy; Esri | ProjectCaves',
 		    maxZoom: 15
 		});
+		var geologicalMap = L.esri.dynamicMapLayer('http://giscbdg.pgi.gov.pl/arcgis/rest/services/mgp_500k/MapServer/', {
+		    opacity: 0.6
+		  });
 
 		map = L.map('map', {
 		    center: [52.23, 21.03],
@@ -31,8 +34,27 @@ var MAP = {
 		    "Esri Topo": baseLayer3,
 		    "Esri Imagery": baseLayer4
 		}; 
-		L.control.layers(baseMaps).addTo(map);
-		
+		var overlayMaps = {
+		    "Geological Map": geologicalMap
+		};
+		L.control.layers(baseMaps, overlayMaps).addTo(map);
+
+		var searchControl = new L.esri.Controls.Geosearch().addTo(map);
+
+  		var results = new L.LayerGroup().addTo(map);
+  		var res_marker;
+
+  		searchControl.on('results', function(data){
+    		results.clearLayers();
+    		for (var i = data.results.length - 1; i >= 0; i--) {
+    		//	if (data.results[i].country == "POL") { //jak ogrniczyć wyniki wyszukiwania tylko do polski?
+    			res_marker = L.marker(data.results[i].latlng);
+      			results.addLayer(res_marker);
+      			res_marker.bindPopup("<b>" + data.results[i].address + "</b>");
+      			console.log(data.results[i].bounds);
+      		//	}
+    		}
+  		});
 	},
 	addMarkers : function() {
 		var $cave, cave, lat, lat2, lon, lon2, marker, name, _i, _len, _ref, _results;
@@ -44,11 +66,11 @@ var MAP = {
 		    cave = _ref[_i];
 		    $cave = $(cave);
 		    lat = $cave.data("latitude");
-		    lat2 = parseFloat(lat.replace(",", "."));
 		    lon = $cave.data("longitude");
-		    lon2 = parseFloat(lon.replace(",", "."));
+		//    lat2 = parseFloat(lat.replace(",", "."));
+		//    lon2 = parseFloat(lon.replace(",", "."));
 		    name = $cave.data("name");
-		    marker = L.marker([lat2, lon2]);
+		    marker = L.marker([lat, lon]);
 		    marker.bindPopup("<b>" + name + "</b><br>Lat: " + lat + ", Lon: " + lon);
 		    markers.addLayer(marker);
 		    _results.push(map.addLayer(markers));

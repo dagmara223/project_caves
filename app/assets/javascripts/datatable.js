@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	$('.table').dataTable({
 	  // ajax: ...,
-	   autoWidth: false,
+	  // autoWidth: false,
 	   pagingType: 'full_numbers',
 	   processing: true,
 	  // serverSide: true,
@@ -10,7 +10,7 @@ $(document).ready(function() {
 	  // Check dataTables documentation to learn more about available options.
 	  // http://datatables.net/reference/option/pagingType
 	});
-	$(document).on('click', '.table, .paginate_button, .sorting', function() {
+	$(document).on('click', '.table, .paginate_button, .sorting, .sorting_desc, .sorting_asc', function() {
   		console.log("table sorting changed");
   		MAP.removeLayers();
   		MAP.addMarkers();

@@ -1,500 +1,500 @@
-Grota w Mechowej;NP-01;61;0;0;wietrzeniowa,erozyjna,;1;455347,8987;752398,4115;18,308;54,6334
-Jaskinia Śnieżna;T.E-13.01;14954;602,5;622; ;2;567407;152989;19,9263;49,2407
-Nisze nad Czarcimi Oknami;NP-06;4,5;0;1;wietrzeniowa,;3;244094,8712;583818,4159;15,1797;53,0583
-Jaskinia Debiutantów;G-1.3;10;1;2,5;tektoniczno-krasowa,;4;615572,4673;333387,3153;20,6425;50,8558
-Jaskinia na Wietrzni;G-1.5;60;10;10;krasowa,;5;615751,8056;333236,8435;20,645;50,8544
-Jaskinia Wielka Śnieżna;T-Wielka Śnieżna;23723;808;824;tektoniczno-krasowa,;6;567168,2155;152902,5794;19,923;49,2399
-Spękana Szczelina;T.E-09.34;11,5;0;4,9;tektoniczna,;7;563643,3699;152415,503;19,8745;49,2359
-Schronisko Równoległe;G-1.2;2;0;0;krasowa,;8;615494,2897;333385,5773;20,6414;50,8558
-Jaskinia w Gackach;N-2.4;115;0;2;krasowa,;9;613463,7771;288857,8387;20,5989;50,4558
-Schron w Marzęcinie;N-2.7;2,5;0;0;krasowa,;10;613927,1878;290226,9914;20,6058;50,4681
-Jaskinia Śpiącego Szweda;NP-04;15;0;2,5; ;11;472523,5207;727049,8138;18,5766;54,4067
-Schronisko Północne;N-2.35;3;0;1;krasowa,;12;618659,2478;284956,4238;20,6708;50,4197
-Schronisko nad Jaskinią z Potokiem;N-2.27;2,5;0;0;krasowo-tektoniczna,;13;618756,4893;285020,3924;20,6722;50,4203
-Jaskinia w Antolce;N-1.1;20;12;12;tektoniczna,;14;577631,2225;282618,5179;20,0928;50,4056
-Schronisko w Bogucicach;N-2.1;5;0;0;krasowa,;15;612395,2531;291800,3548;20,5847;50,4825
-Schronisko Gliniaste;G-1.4;3;0;2,5;krasowa,;16;615634,5357;333234,2329;20,6433;50,8544
-Jaskinia w Skorocicach wzmiankowana przez Sawickiego;N-6Ex;0;0;0;brak danych,;17;618370,9714;284610,1534;20,6667;50,4167
-Kominy I;G-1.16;6,5;4,5;4,5;tektoniczno-krasowa,;18;613778,3729;334058,2475;20,6172;50,8622
-Studzienka w Siesławicach;N-2.69;5,5;1,2;1,2;tektoniczna,;19;620178,2576;288450,6026;20,6933;50,4508
-Schronisko z Koralami;G-1.17;2;1,5;1,5;krasowo-tektoniczna,;20;613778,3729;334058,2475;20,6172;50,8622
-Schronisko Zjazdowe;G-1.10;2,5;0;0;krasowa,;21;613877,4353;333998,6332;20,6186;50,8617
-Nocna Loża;G-1.15;2;0;0;krasowo-tektoniczna,;22;613861,9531;333812,9403;20,6183;50,86
-Jaskinia Wschodnia na Kadzielni;G-1.14;80;9,5;10,5;krasowo-tektoniczna,;23;613898,331;333937,3067;20,6189;50,8611
-Schronisko na Skraju Lasu;J.Cz.IV-04.119;5,5;0;0;krasowa,;24;553249,9873;285342,6952;19,75;50,4328
-Jaskinia Klonowa;NP-12;19;2,5;2,5;wietrzeniowa,;25;486599,9918;626247,9153;18,7979;53,501
-Jaskinia Odkrywców;G-1.7;392;16,5;23;krasowa,;26;613876,0818;334060,3881;20,6186;50,8622
-Schronisko Kontaktowe;G-1.11;3;0;0;krasowa,;27;613877,4353;333998,6332;20,6186;50,8617
-Szczelina w Maszczykowych Skałach I;J.Cz.II-05.21;13;17;17;tektoniczno-krasowa,;28;532204,1132;312149,5889;19,4559;50,6755
-Schronisko nad Szczeliną;G-1.12;2;0;0;krasowa,;29;613877,4353;333998,6332;20,6186;50,8617
-Jaskinia w Anastomozach;J.BK-02.01;7;0;0;tektoniczno-krasowa,;30;565620,3762;241878,1987;19,9167;50,0406
-Jaskinia Magierowska;N-4Ex;0;0;0;brak danych,;31;635975,8909;283180,6372;20,9139;50,4
-Jaskinia w Skotnikach Małych;N-3Ex;0;0;0;brak danych,;32;627196,1613;286977,932;20,7917;50,4361
-Schronisko w Połchowie;NP-02;7;0;3;wietrzeniowa,;33;460290,5808;748216,4955;18,3852;54,5962
-Groty w Nagórzycach;NP-4Ex;617;0;0;sztuczna,;34;569268,0904;403795,0441;19,9981;51,4965
-Jaskinia w Starym Puszczykowie;NP-1Ex;0;0;0;brak danych,;35;352788,4113;492497,8612;16,8414;52,2787
-Schronisko w Rafie;G-1.18;2;0;0;krasowa,;36;613778,3729;334058,2475;20,6172;50,8622
-Jaskinia Bajka I;NP-09;19;0;0; ;37;445641,0118;590800,548;18,1864;53,1797
-Jaskinia Bajka II;NP-10;10;0;0; ;38;445409,4567;591972,9139;18,1827;53,1902
-Czarcie Okna;NP-05;3;0;0;erozyjna,wietrzeniowa,;39;244285,2939;581999,8713;15,184;53,0421
-Schronisko Mysie;G-1.20;2;0;0;krasowa,;40;613798,591;334027,798;20,6175;50,8619
-Grota Mirachowska II;NP-08;4;0;0;erozyjna,;41;435601,7861;721690,1799;18,0088;54,3552
-Schronisko Mokre;N-2.68;3,5;3;3;krasowa,;42;620198,6747;288420,1768;20,6936;50,4506
-Ciasna Dziura;NP-15;2;0;0;wietrzeniowa,;43;496770,8606;627232,5284;18,9513;53,51
-Schronisko Bajkowe;N-2.17;12;0;0;krasowa,;44;617103,1621;287485,5765;20,6497;50,4428
-Szczelina w Kurowie;NP-17;1,5;0;0; ;45;753960,4652;587422,4207;22,7942;53,0916
-Schronisko Ciepłe;G-1.1;2;0;0;krasowa,;46;615455,2009;333384,7087;20,6408;50,8558
-Grota Mirachowska I;NP-07;7;0;1;wietrzeniowa,erozyjna,;47;435325,565;724790,0261;18,0039;54,3831
-Jaskinia w Krzyżanowicach Górna;N-2.2;60;0;6;krasowa,;48;612561,0125;288653,1465;20,5861;50,4542
-Jaskinia w Skotnikach Górnych;N-2.15;31;0;0;krasowa,;49;617108,2716;285477,8097;20,6492;50,4247
-Schronisko ze Studnią;N-2.14;11;2,5;2,5;krasowo-tektoniczna,;50;617108,2716;285477,8097;20,6492;50,4247
-Dziura w Maruszynie;P-1.01;5;0;0;krasowa,;51;571673,0409;173414,4073;19,9886;49,424
-Schronisko w Obłazowej I;P-1.05;14;0;0;tektoniczno-krasowa,;52;581751,8951;174081,5973;20,1278;49,4287
-Jaskinia w Obłazowej;P-1.04;11;0;5;krasowa,;53;581701,9503;174080,2726;20,1271;49,4287
-Płaska Nisza;NP-14;2;0;0;wietrzeniowa,;54;490355,55;626104,8036;18,8546;53,4998
-Schronisko w Szaflarach;P-1.02;3;0;0;krasowa,;55;573430,0634;175010,4637;20,0132;49,4381
-Schronisko w Kramnicy;P-1.07;3;0;2,5;tektoniczno-krasowa,;56;581971,6698;174087,4267;20,1308;49,4287
-Jaskinia Lisia;N-2.12;76;2;5;krasowa,;57;617108,2716;285477,8097;20,6492;50,4247
-Schronisko przy Lisiej;N-2.13;11,5;3;3;krasowo-tektoniczna,;58;617108,2716;285477,8097;20,6492;50,4247
-Lejowa Studnia;N-5Ex;10;7;7;krasowo-tektoniczna,;59;613520,2513;288982,6139;20,5997;50,4569
-Jaskinia koło Skorocic;N-2Ex;0;0;0;brak danych,;60;618519,6919;286775,8419;20,6694;50,4361
-Schronisko Wodne pod Kramnicą;P-1.08;4;0;0;krasowa,;61;581969,0241;174187,3245;20,1308;49,4296
-Jaskinia Lucyny;N-2.3;6;1;1;tektoniczno-krasowa;62;612718,7086;288656,516;20,5883;50,4542
-Schronisko w Lorencowych Skałkach;P-1.09;3,5;2,5;2,5;krasowa,;63;584319,1649;173399,9271;20,163;49,4222
-Schronisko w Borsukowej Skale I;P-1.10;3,5;1;1;tektoniczna,;64;584625,4862;173158,1291;20,1672;49,42
-Jaskinia w Dziurowej Skale;P-1.15;70;17,5;17,5;tektoniczna,;65;586154,4668;173178,6854;20,1883;49,42
-Schronisko w Zielonych Skałkach;P-1.20;15;0;0;tektoniczna,;66;593483,4764;174642,7044;20,2897;49,4321
-Schronisko w Żorze;P-1.16;4,5;2;2;tektoniczna,;67;588877,8284;173020,98;20,2258;49,4182
-Schronisko przy Zielonej Drodze;P-1.19;7;0;0;tektoniczna,;68;590119,957;173303,8488;20,243;49,4205
-Schronisko Czorsztyńskie;P-1Ex;0;0;0;erozyjna,;69;595027,9816;174833,6328;20,311;49,4335
-Jaskinia Skoruszowa;T.E-09.03;23;0,7;8;krasowa,;70;563611,8124;152512,6303;19,8741;49,2368
-Komora Kryształowa;NP-3Ex;0;0;0;brak danych,;71;450037,8762;546706,0975;18,259;52,7837
-Krzywa Dziura;P-1.18;12;4,5;4,5;tektoniczno-krasowa,;72;589832,7117;172826,3683;20,2389;49,4163
-Nisze w Bielawach;NP-2Ex;0;0;0;brak danych,;73;433243,5967;550535,6258;18,0092;52,8163
-Jaskinia Żydowska;N-2.9;25;0,7;3,2;krasowa,;74;613866,7347;290287,4646;20,605;50,4686
-Schronisko w Zielonych Skałkach Górne;P-1.21;6;0;2;krasowa,;75;593484,0093;174622,7241;20,2897;49,4319
-Żółty Schron;T.E-09.32;4,5;0;1,9;tektoniczno-krasowa,;76;563494,9805;152621,4966;19,8725;49,2378
-Szczelina na Kadzielni;G-1.9;220;0;0; ;77;613877,4353;333998,6332;20,6186;50,8617
-Schronisko w Borsukowej Skale III;P-1.12;2,5;0;0;tektoniczna,;78;582652,4898;173105,8034;20,14;49,4198
-Kominy II;G-1.19;10;4,5;7;krasowo-tektoniczna,;79;613797,9147;334058,6754;20,6175;50,8622
-Prosta Dziura;P-1.17;7;6;6;krasowa,;80;589682,3331;172842,3744;20,2369;49,4164
-Schronisko w Dziurowej Skale;P-1.14;2;1,5;1,5;krasowa,;81;586222,5376;173250,4693;20,1892;49,4206
-Jaskinie w Leszczach;N-13Ex;0;0;0;brak danych,;82;612720,6892;288563,8895;20,5883;50,4533
-Jaskinia pod Dachem;T.E-11.08;104;66;66;tektoniczna,;83;565901,8566;152969,047;19,9057;49,2407
-Schronisko w Borsukowej Skale II;P-1.11;3,3;1,5;1,5;tektoniczna,;84;584635,472;173158,394;20,1673;49,42
-Jaskinia Wielka Litworowa;T.E-12.01;7185;354;370; ;85;566557;152840;19,9146;49,2394
-Prochownia;G-1.8;172;0;0; ;86;613876,0818;334060,3881;20,6186;50,8622
-Jaskinia nad Kotlinami;T.E-12.06;1465;433,5;433,5; ;87;567024,7515;152919,777;19,9211;49,2401
-Jaskinia w Szaflarach;P-1.03;43;6;6;krasowa,;88;573455,0331;175011,1261;20,0135;49,4381
-Jasny Awen;T.E-12.05;115;61;61; ;89;567061,607;152924,7503;19,9216;49,2402
-Jaskinia Wilcza;T.E-12.64;54,7;16;16; ;90;567253,9065;153099,7726;19,9243;49,2417
-Piotrusiowa Jama;G-1.21;2;0;0;krasowa,;91;613798,591;334027,798;20,6175;50,8619
-Schronisko Ciasne w Podcisowiu;J.Cz.IV-04.107;17,5;1,2;1,2;krasowo-tektoniczna,;92;550731,3334;286769,2438;19,7147;50,4458
-Schronisko w Chwałowicach;N-2.10;2,5;0;0;krasowa,;93;614700,363;300870,0721;20,62;50,5636
-Jaskinia pod Murem;T.D-08.56;14;4,4;4,4;tektoniczno-krasowa,;94;562542,8815;153621,9117;19,8596;49,2469
-Schronisko nad Zawaliskową;G-1.23;6;0;0; ;95;613857,1011;333951,724;20,6183;50,8612
-Schronisko w Zielonej Górze;N-2.25;2;0;1;krasowo-tektoniczna,;96;618697,3114;285019,0611;20,6714;50,4203
-Jaskinia w Marzęcinie;N-22Ex;0;0;0;brak danych,;97;613904,1442;290380,9431;20,6056;50,4694
-Komin Geologów;G-1.25;11;10;10;krasowo-tektoniczna,;98;613741,9931;333933,8819;20,6167;50,8611
-Szczelina w Skorocicach;N-2.23;16;4;4;tektoniczna,;99;618695,9227;285080,8114;20,6714;50,4208
-Jaskinia Urwista na Kadzielni;G-1.26;18;2;3;krasowa,;100;613741,9931;333933,8819;20,6167;50,8611
-Szczelina Magdaleny;N-2.24;2;0;1,1;tektoniczna,;101;618715,6484;285081,2551;20,6717;50,4208
-Schronisko Nietoperza;G-1.24;2;0;0;tektoniczno-krasowa,;102;613799,9435;333966,0431;20,6175;50,8614
-Pustki podziemne w Posądzy;N-19Ex;0;0;0;brak danych,;103;683790,6675;301535,9558;21,5953;50,5519
-Jaskinia Zawaliskowa;G-1.22;30;6;6;krasowo-tektoniczna,;104;613818,1329;334028,226;20,6178;50,8619
-Polny Schron;N-2.18;8;0;0;krasowa,;105;617103,8477;287454,7012;20,6497;50,4425
-Schronisko w Chotelku;N-2.19;3,5;0;0;krasowa,;106;618906,4225;287124,3452;20,675;50,4392
-Schronisko Niespodzianka w Wielkiej Górze;N-2.20;5;2,2;2,2;krasowa,;107;618755,0998;285082,1426;20,6722;50,4208
-Schronisko przy Tunelu;N-2.22;6;0;1;krasowa,;108;618715,6484;285081,2551;20,6717;50,4208
-Tunel w Skorocicach;N-2.21;18;0;3;krasowa,;109;618715,6484;285081,2551;20,6717;50,4208
-Jaskinia z Potokiem;N-2.26;46;4,5;4,5;krasowa,;110;618756,4893;285020,3924;20,6722;50,4203
-Schronisko Ptaszników;N-2.30;2;0;0;krasowa,;111;618738,1525;284958,1983;20,6719;50,4197
-Jaskinia pod Łodzikami;G-1.13;21;4;4;krasowa,;112;613897,6542;333968,1841;20,6189;50,8614
-Jaskinia w Kępie Redłowskiej;NP-03;23,5;5;5;erozyjna,;113;472761,3227;729503,8735;18,58;54,4288
-Schronisko w Skotnikach Dolnych;N-2.16;3,5;0;0;krasowa,;114;615982,5889;284618,9147;20,6331;50,4172
-Wielki Schron;N-2.28;7;1,7;1,7;krasowo-tektoniczna,;115;618757,184;284989,5173;20,6722;50,42
-Jaskinia Stara;N-2.29;86;3;3;krasowa,;116;618757,184;284989,5173;20,6722;50,42
-Schronisko przy Rowie;N-2.11;3,5;0;1;tektoniczno-krasowa,;117;617107,5864;285508,6849;20,6492;50,425
-Schronisko z Zaciskiem;N-2.40;3,2;0;0;krasowa,;118;618681,0567;284864,242;20,6711;50,4189
-Jaskinia w Czarkowych;N-1Ex;0;0;0;brak danych,;119;621620,8159;272018,7081;20,7083;50,3028
-Schronisko pod Wodospadem;G-7.1;3;0;1;erozyjna,;120;666035,9452;337752,7144;21,3611;50,8828
-Stare Piekło;G-5.5;6;0;0;krasowa,;121;592489,5204;330763,1017;20,3139;50,8364
-Jaskinia Skora;J.Śl-02.06;35;3;3; ;122;509076,5663;282580,7367;19,1278;50,4103
-Jaskinia Skrocicka;N-2.33;352;0;5;krasowa,;123;618739,5417;284896,4481;20,6719;50,4192
-Schronisko Wschodnie w Siesławicach;N-2.64;3;0;0;krasowa,;124;620200,0825;288358,4264;20,6936;50,45
-Schronisko w Skorocicach pod Drogą Zachodnie;N-2.36;13;1;3,5;tektoniczna,;125;618680,3625;284895,1171;20,6711;50,4192
-Schronisko nad Przepaścią;G-1.29;2,5;0;0;krasowa,;126;613721,775;333964,3316;20,6164;50,8614
-Jaskinia Południowa na Miedziance;G-2.23;12,5;0;0;krasowa,;127;595597,0078;331962,1661;20,3583;50,8467
-Schronisko w Śladkowie Małym;N-2.78;10;0;1,5;wietrzeniowa,;128;623826,9738;302683,7858;20,7494;50,5781
-Jaskinia Lubańska;G-5.1;4;0;0;krasowa,;129;625640,8272;308256,8164;20,7769;50,6278
-Duża Dziurawa Studnia;G-5.11;7,5;3,5;3,5;krasowa,;130;592719,9531;327709,3035;20,3164;50,8089
-Słomiany Tunel;N-2.34;7;0;1;krasowa,;131;618719,1208;284926,8795;20,6717;50,4194
-Jaskinia Ucho Olki;N-2.38;79;7,2;8,8; ;132;618640,9097;284894,2301;20,6706;50,4192
-Grota Szydły I;N-2.79;7;0;2,7;sztuczna,;133;641566,1725;304368,2241;21,0006;50,5892
-Schronisko Pochyłe;G-5.8;2,5;0;0;krasowo-tektoniczna,;134;592607,9388;330703,433;20,3156;50,8358
-Płaska Jama I w Krynkach;G-7.5;5,5;0;0;tektoniczna,;135;653296,6727;350710,8437;21,1856;51,0028
-Jaskinia Opalowa;N-2.71;11;0;1;krasowa,;136;621642,4768;279680,1501;20,7111;50,3717
-Dziupla;N-2.60;11;2;2;krasowa,;137;620023,3635;288323,5092;20,6911;50,4497
-Jaskinia Draba;J.Wl-01.06;67;3,8;5,3;krasowa,;138;485475,1477;359143,3421;18,7925;51,0989
-Płaska Jama II w Krynkach;G-7.6;5,5;0;0;tektoniczna,;139;653296,6727;350710,8437;21,1856;51,0028
-Schronisko z Czosnkiem;N-2.55;5;0;0;krasowa,;140;619533,8738;282937,3626;20,6825;50,4014
-Schronisko Samotne;N-2.53;3;0;0;krasowa,;141;619493,0091;282998,2195;20,6819;50,4019
-Jaskinia w Woli Zagojskiej;N-7Ex;0;0;0;krasowa,;142;614533,0172;286842,2234;20,6133;50,4375
-Schronisko Małe;N-28Ex;4;1;1;krasowo-tektoniczna,;143;613931,8609;290010,8626;20,6058;50,4661
-Schronisko nad Chelosiową Jamą;G-1.36;4;2;2;krasowo-tektoniczna,;144;605499,5055;333543,7551;20,4994;50,8592
-Grota Skrzatów;G-7.8;3;0;0;wietrzeniowa,;145;653280,8537;350586,7618;21,1853;51,0017
-Schronisko w Grodzisku;N-2.74;6;0;0;tektoniczno-krasowa,;146;627929,7596;287644,4261;20,8022;50,4419
-Schronisko w Skorocicach pod Drogą Wschodnie;N-2.37;13;0;2;tektoniczno-krasowa,;147;618700,0889;284895,5607;20,6714;50,4192
-Raj;G-2.17;240;9,5;9,5;krasowo-tektoniczna,;148;605556,4097;329776,2793;20,4992;50,8253
-Jaskinia w Sielcu;N-14Ex;0;0;0;brak danych,;149;616495,3454;298005,8311;20,6444;50,5375
-Jaskinia Psia;G-2.27;16,5;4;4;krasowa,;150;595913,7752;331751,7802;20,3628;50,8447
-Schronisko Osobne;G-7.13;2,5;0;0;tektoniczna,;151;651976,6503;353823,9554;21,1681;51,0311
-Wojtkowa Dziura;G-1.33;2,5;0;2;tektoniczna,;152;605831,7413;333550,5108;20,5042;50,8592
-Jaskinia w Sztolni Zofia na Miedziance;G-2.20;279;14;23;krasowo-tektoniczna,;153;595575,1884;332085,3191;20,3581;50,8478
-Czarcie Wrota;G-6.4;2;0;0;tektoniczna,;154;598744,893;363652,2962;20,4117;51,1311
-Schronisko pod Drutami;G-7.10;4,5;0;0;tektoniczna,;155;651697,7231;354032,0733;21,1642;51,0331
-Schronisko Wschodnie w Podwalu;N-2.82;3,5;0;0;tektoniczna,;156;668257,4806;306979,949;21,3786;50,6056
-Schronisko Dwuotworowe na Miedziance;G-2.24;8,5;1,5;1,5;krasowo-tektoniczna,;157;595635,5373;331993,7633;20,3589;50,8469
-Dziura na Przestrzał;G-7.11;7,5;1,5;1,5;tektoniczna,;158;651718,0994;354001,7691;21,1644;51,0328
-Lisia Dziura w Łagowie;G-3.2;18;2;2;krasowo-tektoniczna,;159;647177,4512;325101,6859;21,0881;50,7742
-Jaskinia w Łatanicach;N-29Ex;20;0;1;krasowo-tektoniczna,;160;620211,2472;284404,6143;20,6925;50,4144
-Jaskinia w Czerwonej Górze;G-2.2;35;5,5;5,5;krasowa,;161;605471,7655;329125,8666;20,4978;50,8194
-Jaskinia Świętej Barbary;G-7.7;18;2;2;tektoniczna,;162;653316,1543;350711,4216;21,1858;51,0028
-Okap Massalskiego;G-7.2;0;0;0;wietrzeniowa,erozyjna,;163;663673,2416;334556,2153;21,3261;50,8547
-Schronisko w Okrągłej Górze;N-2.39;6;0;0;krasowa,;164;618681,0567;284864,242;20,6711;50,4189
-Schronisko Zakryte;G-2.22;2,5;0;0;krasowo-tektoniczna,;165;595576,3238;332023,5629;20,3581;50,8472
-Jaskinia w Sztolni Teresa na Miedziance;G-2.28;270;0;16;krasowa,;166;595913,7752;331751,7802;20,3628;50,8447
-Jaskinia Dzwonów;N-2.31;91;0;5;krasowo-tektoniczna,;167;618738,1525;284958,1983;20,6719;50,4197
-Jaskinia Pajęcza;G-1.34;1183;17,5;25,5;krasowa,;168;605441,5022;333511,6873;20,4986;50,8589
-Jaskinia w Śladkowie Dużym;N-2.77;10,7;0;0;krasowa,;169;621064,5765;303051,8275;20,7106;50,5819
-Schronisko Bardzo Niskie;G-6.5;3,5;0;0;tektoniczna,;170;598764,3225;363652,6691;20,4119;51,1311
-Jaskinia w Siesławicach;N-2.63;21;5;5;krasowa,;171;620180,369;288357,977;20,6933;50,45
-Jaskinia Szeroka;N-2.61;48;1,5;3;krasowa,;172;620023,3635;288323,5092;20,6911;50,4497
-Studnia Gwarków;G-2.3;6,5;4;4;krasowo-tektoniczna,;173;605473,0171;329064,1114;20,4978;50,8189
-Tunelik w Skałkach Adamowskich;G-7.12;4;2;2;tektoniczna,;174;651777,4143;353972,6095;21,1653;51,0325
-Jaskinia Dolomitowa;G-4.2;10;2;2;tektoniczna,;175;652118,1575;338376,8306;21,1636;50,8922
-Jaskinia za Filarem;G-1.27;11,5;0;8;krasowa,;176;613741,3171;333964,7594;20,6167;50,8614
-Schronisko pod Płytą;G-2.7;3;0;0;tektoniczna,;177;602913,079;328889,2975;20,4614;50,8178
-Płaska Jama III w Krynkach;G-7.9;2,5;0;0;tektoniczna,;178;653323,4814;350464,4134;21,1858;51,0006
-Ślubny Schron;G-7.3;12;3,5;3,5;tektoniczna,;179;663692,7848;334556,8311;21,3264;50,8547
-Schronisko w Łatanicach II;N-10Ex;10;0;0;krasowo-tektoniczna,;180;620132,3339;284402,8179;20,6914;50,4144
-Schronisko Lisa w Okopankach;G-7.4;3;0;0;tektoniczna,;181;663692,7848;334556,8311;21,3264;50,8547
-Jaskinia Zbójecka w Łagowie;G-3.1;174;17;22;krasowo-tektoniczna,;182;647464,4735;326036,8038;21,0925;50,7825
-Jaskinia Górna;N-2.32;61;4;4;krasowo-tektoniczna,;183;618758,5734;284927,767;20,6722;50,4194
-Schronisko Krótkie w Jaworzni;G-1.35;5;0;0;krasowa,;184;605421,9588;333511,2908;20,4983;50,8589
-Zbójecka Dziura;T.D-04.01;100;9;9;krasowa,;185;559052,2536;153660,524;19,8116;49,2476
-Schronisko w Siesławicach I;N-11Ex;14;0;0;brak danych,;186;620219,7961;288358,8759;20,6939;50,45
-Pustki podziemne w Staszowie;N-16Ex;0;0;0;brak danych,;187;653718,9614;302485,4457;21,1714;50,5692
-Schronisko Wodne I;N-2.65;2;0;0;krasowa,;188;620178,9614;288419,7274;20,6933;50,4506
-Dziura pod Kazalnicą;T.D-08.29;3;0;0;tektoniczno-krasowa,;189;562679,2108;153569,5399;19,8615;49,2464
-Jaskinia pod Fałdem;G-1.32;11;5;5;krasowa,;190;611686,91;336762,2454;20,5883;50,8869
-Schronisko z Mostem Skalnym;G-2.26;15;7;7;krasowa,;191;595814,3203;331842,6122;20,3614;50,8456
-Jaskinia Półkolista;N-2.62;58;1;1;krasowa,;192;620100,8115;288387,0553;20,6922;50,4503
-Jaskinia na Kontakcie;N-2.52;75;0;1,5;krasowa,;193;619473,2756;282997,773;20,6817;50,4019
-Jaskinia pod Wygódką;N-2.54;12;0;1,5; ;194;619512,4688;282977,2036;20,6822;50,4018
-Grota Szydły II;N-2.80;8,5;0;0;sztuczna,;195;641566,1725;304368,2241;21,0006;50,5892
-Jaskinia Flisa;N-2.46;71;2;5;krasowa,;196;619315,4072;282994,2041;20,6794;50,4019
-Grota Świętej Rozalii;G-6.1;5;0;0;wietrzeniowa,;197;597386,6614;345988,2023;20,3875;50,9725
-Jaskinia pod Świecami;N-2.81;106;0;7;krasowa,;198;654341,0813;306088,2027;21,1817;50,6014
-Schron Polichniański;G-2.18;5;0;0;krasowa,;199;600937,0492;327862,1375;20,4331;50,8089
-Schronisko na Szczelinie;G-2.8;7;0;0;krasowa,;200;602913,079;328889,2975;20,4614;50,8178
-Schron z Przepływem;N-2.48;10;1;2,5; ;201;619532,8148;282964,2535;20,6825;50,4016
-Schronisko Łaszczyńskich;G-2.13;5;2;2;krasowa,;202;596470,9711;332287,1968;20,3708;50,8494
-Schronisko Niedostępne;G-1.28;4;2;2;krasowa,;203;613741,3171;333964,7594;20,6167;50,8614
-Jaskinia Skośna;T.E-06.01;28;0;5,6;tektoniczna,;204;561210,1165;153103,8493;19,8412;49,2424
-Jaskinia Szydłowska;N-2.84;12;0;1;tektoniczna,;205;641442,4148;304581,1667;20,9989;50,5911
-Studnia w Jędrzejowie;N-26Ex;17;17;17;brak danych,;206;591684,13;307521,6714;20,2967;50,6275
-Jaskinia na Kadzielni Górna;G-1.31;6;1;1;krasowa,;207;613761,5353;333934,3098;20,6169;50,8611
-Schronisko Zygmunta;G-2.1;6,5;0;0;krasowa,;208;605471,1396;329156,7442;20,4978;50,8197
-Jaskinia Ponurego;G-4.1;25;7,5;7,5;tektoniczna,;209;631138,6793;349606,826;20,8694;50,9983
-Lisia Jama w Jaworzni;G-1.38;3;0;0;tektoniczna,;210;605281,4013;333693,784;20,4964;50,8606
-Jaskinia w Łagiewnikach;N-8Ex;0;0;0;brak danych,;211;623700,3124;293011,431;20,7444;50,4911
-Mały Tunel;N-2.41;6;0;1,5;krasowa,;212;618642,2977;284832,4799;20,6706;50,4186
-Jaskinie w Piasecznie i Machowie;N-18Ex;0;0;0;krasowa,;213;683790,6675;301535,9558;21,5953;50,5519
-Jaskinia w Skorocicach u Ujścia Doliny;N-2.43;122;3;4,5;krasowa,;214;618623,265;284801,1614;20,6703;50,4183
-Jaskinia w Krzyżanowicach Dolna;N-9Ex;20;2;0;krasowa,;215;612720,6892;288563,8895;20,5883;50,4533
-Dwie Studnie;N-2.58;31;3,5;3,5;krasowa,;216;620025,4721;288230,8836;20,6911;50,4489
-Schronisko Mechate;G-2.9;2;0;0;krasowa,;217;602853,7868;328919,015;20,4606;50,8181
-Sołecka Studnia w Gackach;N-27Ex;6,3;6,3;6,3;krasowa,;218;613520,2513;288982,6139;20,5997;50,4569
-Czyściec;G-2.10;2;0;0;krasowa,;219;601029,0307;330180,6268;20,435;50,8297
-Schronisko Trójkątne;N-2.42;3;0;0;krasowo-tektoniczna,;220;618622,5711;284832,0365;20,6703;50,4186
-Jaskinia krasowa w Staszowie;N-17Ex;11;7;7;brak danych,;221;653718,9614;302485,4457;21,1714;50,5692
-Studnia w Szańcu I;N-20Ex;0;0;0;brak danych,;222;618082,4357;296589,3589;20,6664;50,5244
-Mostek w Aleksandrowie;N-2.45;3,5;0;0;krasowa,;223;619256,9037;282961,9919;20,6786;50,4017
-Jaskinia Wodna w Siesławicach;N-2.67;25;8;8;krasowa,;224;620198,6747;288420,1768;20,6936;50,4506
-Schronisko Marcina;N-2.50;3,5;2;2;krasowa,;225;619393,6434;283026,863;20,6806;50,4022
-Schronisko Piecowe;N-2.57;2;0;0;krasowa,;226;619575,8837;285440,4755;20,6839;50,4239
-Schronisko Szklarków;G-5.2;3;2;2;krasowa,;227;601363,1921;326078,8347;20,4386;50,7928
-Gazownia;G-1.37;30;0;0;krasowa,;228;605420,0796;333603,9241;20,4983;50,8597
-Schronisko przy Dziupli;N-2.59;3;0;0;krasowo-tektoniczna,;229;620023,3635;288323,5092;20,6911;50,4497
-Schronisko Stołowe;N-23Ex;4;0;0;brak danych,;230;613952,9033;289949,5377;20,6061;50,4656
-Jaskinia w Aleksandrowie;N-2.47;163;0;4;krasowa,;231;619315,4072;282994,2041;20,6794;50,4019
-Schronisko Narożne;N-2.49;14;1,5;3; ;232;619534,159;282914,2984;20,6825;50,4012
-Jaskinia w Marzyszu;G-2.14;13;0;4,5;krasowa,;233;619367,4821;324792,1032;20,6936;50,7778
-Dziura w Leju;N-2.75;6;3,5;3,5;tektoniczna,;234;623655,0005;292423,4134;20,7436;50,4858
-Piekło pod Skibami;G-2.11;57;0;8;krasowa,;235;600850,0361;330331,6007;20,4325;50,8311
-Ciasny Kominek;G-1.40;2,5;0;2;krasowa,;236;605243,5667;333631,2366;20,4958;50,86
-Jaskinia ze Świetlikami;N-2.70;5;1;1;tektoniczna,;237;620178,2576;288450,6026;20,6933;50,4508
-Jaskinia Sawickiego;N-2.72;173;0;3;krasowa,;238;624091,0811;289807,8288;20,7489;50,4622
-Studnia w Szańcu II;N-21Ex;0;0;0;brak danych,;239;618100,7314;296651,5522;20,6667;50,525
-Jaskinia nad Wodą;N-2.44;5;0;0;krasowa,;240;618683,1395;284771,6166;20,6711;50,4181
-Jaskinia w Ryglu;N-2.51;60;0;3;krasowa,;241;619394,3414;282995,988;20,6806;50,4019
-Schronisko Wschodnie pod Skałką;N-2.73;6;0;0;krasowa,;242;624110,7894;289808,2929;20,7492;50,4622
-Jaskinia Hematytowa;G-2.25;13;4,5;9;krasowo-tektoniczna,;243;595618,2602;331869,8913;20,3586;50,8458
-Schronisko Dolne pod Starym Piekłem;G-5.4;2,5;0;0;krasowa,;244;592489,5204;330763,1017;20,3139;50,8364
-Schron pod Studniami;N-30Ex;4;0;0;brak danych,;245;618082,4357;296589,3589;20,6664;50,5244
-Schronisko Okopcone;G-2.15;4,5;0;0;krasowa,;246;609406,5394;329052,6503;20,5536;50,8181
-Jaskinia w Unikowie;N-15Ex;0;0;0;brak danych,;247;616495,3454;298005,8311;20,6444;50,5375
-Jaskinia Deszczowa;N-25Ex;14;7,5;7,5;krasowa,;248;619499,5434;295756,4106;20,6861;50,5167
-Smocza Jama;T.E-08.07;40;16,5;16,5;krasowa,;249;563146,1587;152621,2673;19,8677;49,2378
-Schronisko Jacka;G-2.5;2;0;0;krasowa,;250;613856,54;334059,9598;20,6183;50,8622
-Schronisko Mysia Nora;N-24Ex;6;0;0;krasowa,;251;613952,9033;289949,5377;20,6061;50,4656
-Jaskinia Jeleniowska;G-1.30;36;8;8;krasowa,;252;613741,3171;333964,7594;20,6167;50,8614
-Jamy w Podwalu;N-2.83;8;0;2;krasowa,;253;668237,8334;306979,3184;21,3783;50,6056
-Kalacki Tunelik;T.C-15.05;7;4,2;4,2;tektoniczno-krasowa,;254;570137,574;154582,5313;19,9641;49,2547
-Dziura;T.B-14.01;180,4;18,6;43,4;krasowa,;255;568561,0846;156399,135;19,9428;49,2712
-Okno w Jatkach I;T.B-12.02;3;0;0;tektoniczno-krasowa,;256;566988,728;155527,8403;19,921;49,2636
-Studnia Jaskini Wysokiej w Podgrodziu;G-8.3;4;3;3;tektoniczna,;257;678997,4879;340656,4202;21,5467;50,905
-Jaskinia Kalacka;T.C-16.01;405;6,5;19;krasowa,;258;570414,6182;154652,8376;19,968;49,2553
-Jaskinia nad Zalewem;G-7.14;8;0;0;tektoniczna,;259;652114,1429;351139,4482;21,1689;51,0069
-Jama Agi;G-7.19;8;0;1,5;tektoniczna,;260;616194,9953;369917,5607;20,6631;51,1842
-Schron z Prowokatorem;T.A-17.02;3;0;0;brak danych,;261;571601,669;157163,9521;19,9847;49,2778
-Schronisko Gotyckie;G-7.15;9;0;1,5;tektoniczna,;262;651974,1514;351258,9407;21,1669;51,0081
-Szczelina w Suchym Żlebie;T.C-15.03;3;0;0;tektoniczno-krasowa,;263;570002,6405;154581,9605;19,9623;49,2547
-Schronisko w Bałtowie;G-8.9;2,5;0;0;krasowo-tektoniczna,;264;678270,9787;352655,7073;21,5422;51,0131
-Jaskinia Filipczańska Niżnia;T.B-24.04;14;0;1,5;erozyjna,wietrzeniowa,;265;578600,1362;146812,0987;20,0789;49,1838
-Nisza w Jatkach;T.B-12.06;6;0;1,75;krasowa,;266;567071,941;155594,0179;19,9222;49,2642
-Korytarzyk nad Kalacką;T.C-16.03;3,6;0;0;tektoniczno-krasowa,;267;570410,22;154667,7158;19,9679;49,2555
-Komora w Jatkach;T.B-12.08;8,5;0,8;0,8;krasowa,;268;567175,3744;155651,7339;19,9236;49,2647
-Schronisko Trójkątne;G-8.4;2;0;0;wietrzeniowa,krasowa,;269;678972,6382;340810,1161;21,5464;50,9064
-Korytarzyk przy Kalackiej;T.C-16.02;4,3;0;1,1;krasowo-tektoniczna,;270;570412,7465;154647,79;19,9679;49,2553
-Okap nad Jamą;G-7.16;6;0;0;tektoniczna,;271;651974,1514;351258,9407;21,1669;51,0081
-Tomkowa Dziura;G-7.20;8;0;1;erozyjna,;272;616214,402;369917,9997;20,6633;51,1842
-Jaskinia Jubileuszowa;G-19Ex;0;0;0;tektoniczna,;273;615397,9389;333321,6517;20,64;50,8553
-Schronisko Dolne w Podgrodziu;G-8.6;3;0;1;tektoniczna,;274;678952,0518;340840,3163;21,5461;50,9067
-Koleba za Kończystą;T.B-09.07;4,5;0;0;tektoniczna,;275;563888,141;155594,7449;19,8784;49,2645
-Dziurawa Nisza w Jatkach;T.B-12.07;17;0;0;krasowa,;276;567096,3855;155614,6571;19,9225;49,2644
-Grota w Jaworzyńskim Żlebie;T.A-24.02;8,5;0;0;krasowa,;277;578176,1185;157742,202;20,0752;49,2822
-Dziura w Kończystej Turni;T.B-09.01;16,5;0,7;2,2;krasowa,;278;563899,7169;155535,0744;19,8786;49,264
-Okap w Kończystej Turni;T.B-09.10;10;0;6;krasowa,;279;563940,7287;155496,1751;19,8791;49,2636
-Jaskinia w Jaworzyńskim Żlebie;T.A-24.03;10;0;0;krasowa,;280;578234,471;157803,7262;20,0761;49,2827
-Jaskinia w Laskowej II;G-9Ex;0;0;0;brak danych,;281;608377,7326;340831,5469;20,5425;50,9242
-Grzybowa Dziura;G-7.28;5,5;0;0;tektoniczna,;282;623227,6957;358402,7912;20,7597;51,0792
-Schronisko w Międzyścianach III;T.C-05.03;3;0;0;tektoniczna,;283;559684,236;154256,0082;19,8204;49,2529
-Frapująca Nyża;T.C-15.07;6;0;1,8;tektoniczno-krasowa,;284;570171,5345;154621,4159;19,9646;49,2551
-Nyża nad Olczyską II;T.B-18.01;3,5;0;1,5;brak danych,;285;572892,1269;155822,363;20,0022;49,2656
-Szczelina przy Lodowej nad Kufą;T.D-06.09;12;0;3,9;tektoniczno-krasowa,;286;561059,9627;153300,7976;19,8392;49,2442
-Jaskinia Babia w Podgrodziu;G-8.5;10;0;0,5;krasowa,;287;678952,0518;340840,3163;21,5461;50,9067
-Dziura za Smrekiem w Zawiesistej;T.B-10.02;13,5;0;5;krasowo-tektoniczna,;288;564437,0441;155439,334;19,8859;49,2631
-Kopalnia Maturka;T.D-08.35;120;18;18;tektoniczno-krasowa,;289;562547,4626;153562,0565;19,8597;49,2464
-Jaskinia w Laskowej III;G-10Ex;0;0;0;krasowo-tektoniczna,;290;608041,4557;341040,7679;20,5378;50,9261
-Dziura pod Nosalem;T.A-17.01;12;0;0;tektoniczno-krasowa,;291;571545,9101;157081,9015;19,9839;49,277
-Nyża z Mostem;T.C-15.04;4;0;0;tektoniczno-krasowa,;292;570006,2432;154559,0643;19,9623;49,2545
-Schronisko pod Osiedłem;G-7.17;13;3,5;3,5;tektoniczna,;293;630064,8866;359713,9581;20,8578;51,0894
-Gruzowa Jama;G-24Ex;2;0;0;tektoniczno-krasowa,;294;581942,3273;343465,9094;20,1669;50,9522
-Jaskinia Niska;T.B-09.14;12,5;0;0;krasowa,;295;563839,3847;155548,4723;19,8777;49,2641
-Mokra Koleba;T.C-15.06;11;0;2,3;tektoniczno-krasowa,;296;570150,8783;154570,8877;19,9643;49,2546
-Jaskinia Mydlnicka;J.GT-01.01Ex;75;0;0;tektoniczno-krasowa,;297;560188,3107;247342,1212;19,8417;50,0903
-Jaskinia za Berberysem;G-8.7;4;1;1;krasowa,;298;678911,9448;340869,843;21,5456;50,9069
-Kalacka Nyża I;T.C-15.09;4;0;0;tektoniczno-krasowa,;299;570168,7577;154726,304;19,9646;49,256
-Schron w Wielkich Koryciskach;T.B-04.01;7,5;0;4,3;krasowa,;300;558156,8251;156032,8586;19,7997;49,269
-Lisia Jama;T.B-14.03;19;0;0;krasowa,;301;568599,591;156379,1617;19,9433;49,2711
-Dziura za Głazami;T.C-15.01;25;0;0;tektoniczno-krasowa,;302;570002,0591;154603,9371;19,9623;49,2549
-Tunel w Jatkach;T.B-12.01;6;0;3,5;tektoniczno-krasowa,;303;566978,3658;155541,5608;19,9209;49,2637
-Jaskinia Barłogowa;T.B-10.01;15;0;2,7;krasowa,;304;564291,6749;155455,48;19,8839;49,2632
-Schronisko Wsiowe;G-8.1;4;0;1;krasowa,;305;678998,5536;340625,5463;21,5467;50,9047
-Dziura w Kończystej Niżnia;T.B-09.02;3;0;0;tektoniczno-krasowa,;306;563894,3259;155549,926;19,8785;49,2641
-Szczelina pod Frapującą Nyżą;T.C-15.08;3;0;0;tektoniczno-krasowa,;307;570171,5345;154621,4159;19,9646;49,2551
-Dziurawe Okno;G-7.18;6,5;0;0;wietrzeniowa,erozyjna,;308;629985,5446;359773,751;20,8567;51,09
-Siwiańska Dziura;T.A-06.01;7;0;2;krasowa,;309;559931,5815;156959,467;19,8242;49,2772
-Nyża nad Jaworzyńskim Żlebem;T.A-24.01;5;0;0;krasowa,;310;578176,1215;157742,202;20,0752;49,2822
-Kalacka Szczelina;T.C-15.10;3;0;0;tektoniczna,;311;570113,1831;154559,8941;19,9638;49,2545
-Jaskinia pod Gajem;G-8.8;7,5;2;2;tektoniczna,;312;678971,9092;341397,395;21,5467;50,9117
-Grota Filipczańska Wyżnia;T.B-24.03;7;0;0;erozyjna,wietrzeniowa,;313;578386,0411;156798,0768;20,0779;49,2737
-Schronisko Wschodnie w Kończystej;T.B-09.16;7,5;0;2,6;tektoniczna,;314;564011,4465;155468,0578;19,8801;49,2634
-Kalacka Nyża II;T.C-15.11;4,8;0;0;tektoniczno-krasowa,;315;570164,9522;154681,2198;19,9645;49,2556
-Dziura Stanikowa Niżnia;T.B-09.03;17;0;0;wietrzeniowa,;316;564079,5998;155914,6888;19,8811;49,2674
-Wojtkowa Szpara;T.C-05.06;65;12;12;tektoniczna,;317;559301,5861;154777,6702;19,8152;49,2576
-Schronisko w Zlepieńcach;G-6.3;5;1,5;1,5;tektoniczna,;318;579530,5746;360694,0879;20,1364;51,1075
-Okno w Jatkach II;T.B-12.03;3;0;0;tektoniczno-krasowa,;319;566989,7524;155526,8677;19,921;49,2636
-Nyża pod Progiem w Kończystej;T.B-09.15;4,5;0;3;tektoniczna,;320;564020,3774;155508,2786;19,8802;49,2637
-Jaskinia w Bliżynie;G-14Ex;0;0;0;brak danych,;321;622604,0238;362527,937;20,7522;51,1164
-Schronisko Dujące;G-6.Ex;0;0;0;brak danych,;322;607777,0919;335907,3217;20,5325;50,88
-Jaskinia w Szczukowskich Górkach;G-7Ex;0;0;0;krasowa,;323;606932,0203;336136,9775;20,5206;50,8822
-Schronisko Zachodnie na Miedziance;G-2.21;3;0;0;krasowo-tektoniczna,;324;595575,7561;332054,441;20,3581;50,8475
-Schron pod Kończystą;T.B-09.08;3;0;0;krasowa,;325;563896,5725;155465,0184;19,8785;49,2633
-Jaskinia przy Cmentarzu;G-16Ex;57;0;0;krasowa,;326;614139,6204;333633,6784;20,6222;50,8583
-Nyża w Wąwozie Między Ściany;T.D-05.05;6,8;0;3,4;tektoniczno-krasowa,;327;559621,5505;154207,3688;19,8195;49,2525
-Jaskinia Chalcedonitowa I;G-5.9;10;2,5;2,5;krasowa,;328;592541,8103;330022,7218;20,3144;50,8297
-Mała Dziura Giewontowa;T.C-13.05;2,9;0;0,5;brak danych,;329;567826,7799;154569,3809;19,9324;49,2549
-Schronisko w Międzyścianach II;T.C-05.02;5;0;0;tektoniczno-krasowa,;330;559670,1203;154260,6327;19,8202;49,2529
-Piwnica Zamkowa;G-7.26;4;0;0;tektoniczna,;331;623228,4337;358371,9132;20,7597;51,0789
-Jaskinia z Prześwitami;G-2.6;14;0;0;tektoniczna,;332;602933,2504;328858,8066;20,4617;50,8175
-Niespodzianka;G-2Ex;18;5;5;krasowa,;333;608572,8926;340835,6303;20,5453;50,9242
-Schronisko w Międzyścianach nad II;T.C-06.07;4;0;0;tektoniczna,;334;559670,1193;154260,6327;19,8202;49,2529
-Kamienne Mleko;T.D-04.03;430;15,8;30,3;krasowo-tektoniczna,;335;558926,677;153344,3293;19,8099;49,2448
-Szczelina Przysłopczańska;T.B-10.03;17;12,5;12,5;tektoniczno-krasowa,;336;564552,1897;155432,3845;19,8875;49,263
-Jaskinia w Laskowej I;G-8Ex;170;15;18,5;krasowa,;337;608611,908;336171,8466;20,5444;50,8822
-Jaskinia Korytarzowa;T.D-17.03;18;0;0;krasowa,;338;571482,6523;154183,2728;19,9826;49,251
-Jaskinia pod Szczytem;T.D-17.04;28;0;14,5;tektoniczno-krasowa,;339;571424,1578;154202,7178;19,9818;49,2512
-Jaskinia w Cycku;T.B-17.01;18;6;6;tektoniczna,;340;571113,4974;155860,8253;19,9778;49,2661
-Piekło pod Małogoszczem;G-5.3;17,5;1;5;krasowo-tektoniczna,;341;592195,1289;330819,6506;20,3097;50,8369
-Nyża pod Zawracikiem;T.D-17.14;4,5;0;0;tektoniczna,;342;571620,8623;154138,3585;19,9844;49,2506
-Jaskinia w Jatkach;T.B-12.04;6;0,7;0,7;tektoniczno-krasowa,;343;566989,7494;155526,8677;19,921;49,2636
-Płaska Jama w Skałkach Dalejowskich;G-7.23;3,5;0;0;tektoniczna,erozyjna,;344;623189,5323;358370,9835;20,7592;51,0789
-Schronisko Pustułek;G-1.41;6,5;0;0;krasowa,;345;605183,6878;333691,8051;20,495;50,8606
-Dziura Stanikowa Wyżnia;T.B-09.04;13;0;0;wietrzeniowa,;346;564064,0706;155897,2844;19,8809;49,2672
-Dziura w Żlebku;T.B-09.11;11;0;0;tektoniczna,;347;563951,5117;155466,472;19,8793;49,2634
-Schron w Skale Kmietowicza I;T.C-05.04;4,5;0;1;tektoniczno-krasowa,;348;559314,8139;154731,0391;19,8154;49,2572
-Jaskinia Chalcedonitowa II;G-5.10;2,5;1;1;tektoniczna,;349;589608,4196;329971,3672;20,2728;50,8297
-Jaskinia w Małym Krakowie;T.C-08.01;12;0;2,6;tektoniczno-krasowa,;350;563210,5329;152944,8441;19,8687;49,2407
-Schronisko w Międzyścianach I;T.C-05.01;4;0;0;tektoniczno-krasowa,;351;559642,649;154278,8983;19,8198;49,2531
-Jaskinia na Ołowiance;G-3Ex;0;0;0;krasowa,;352;596671,0401;332043,8034;20,3736;50,8472
-Jaskinia Wodna;G-2.16;16;4;4;krasowa,;353;609467,0886;328034,5189;20,5542;50,8089
-Jasiowy Schron;T.A-12.02;2,3;0;0;krasowa,;354;566705,7196;156778,8767;19,9173;49,2749
-Kominek w Jatkach;T.B-12.05;5,3;0;5,2;tektoniczna,;355;566984,1533;155511,7253;19,9209;49,2634
-Schron za Irgą;T.B-13.01;4;0;0;wietrzeniowa,;356;567615,0604;156094,5739;19,9297;49,2686
-Schronisko Górne nad Starym Piekłem;G-5.6;4;1;1;krasowa,;357;592489,5204;330763,1017;20,3139;50,8364
-Dziura Niżnia w Kończystej Turni;T.B-09.05;6,5;0;1,5;wietrzeniowa,krasowa,;358;563875,8033;155494,4572;19,8782;49,2636
-Stroma Szczelina;G-8.10;10,5;2,5;6;krasowo-tektoniczna,;359;678250,4371;352685,9096;21,5419;51,0133
-Duża Dziura w Jaworzni;G-1.39;15;0;4;tektoniczna,;360;605281,4013;333693,784;20,4964;50,8606
-Tatowa Szczelina;T.C-09.01;3,7;3,5;3,5;tektoniczno-krasowa,;361;563327,3542;154499,3285;19,8705;49,2547
-Ciasna Norka;T.B-09.13;2,4;0,6;0,6;krasowa,;362;563927,4629;155430,8493;19,8789;49,263
-Dziura Wyżnia;T.B-14.02;160;11;14;krasowa,;363;568603,4915;156345,2775;19,9434;49,2708
-Wilcza Jama;G-7.24;3,5;1;1;tektoniczna,;364;623131,1801;358369,5895;20,7583;51,0789
-Mała Dziurawa Studnia;G-5.12;6;3,5;3,5;krasowa,;365;592719,9531;327709,3035;20,3164;50,8089
-Jaskinia w Jaźwicy;G-12Ex;6;3;3;krasowa,;366;605770,579;326938,722;20,5014;50,7997
-Jaskinia Okopcona;G-13Ex;20;0;0;brak danych,;367;609406,5394;329052,6503;20,5536;50,8181
-Schron w Skale Kmietowicza II;T.C-05.05;5,5;0;1,1;tektoniczna,;368;559695,4919;152281,1027;19,8203;49,2351
-Jaskinia Nowa na Miedziance;G-2.19;26;10;10;krasowo-tektoniczna,;369;595633,8333;332086,3976;20,3589;50,8478
-Jaskinia w Rudkach;G-20Ex;45;30;30;brak danych,;370;647670,3482;338773,6624;21,1006;50,8969
-Nyża przy Jatkach;T.B-12.09;3;0;0;krasowa,;371;567127,7817;155750,4371;19,923;49,2656
-Jaskinie na Rzepce;G-4Ex;0;0;0;krasowa,;372;602135,7432;326619,0468;20,4497;50,7975
-Schronisko Ciasne;G-5.7;4;0;0;krasowa,;373;592489,5204;330763,1017;20,3139;50,8364
-Mała Dziura w Kończystej Turni;T.B-09.06;3,3;1;1;krasowa,;374;563879,2101;155554,5241;19,8783;49,2642
-Szpara w Łomiku;G-8.11;4;0,5;0,5;tektoniczna,;375;678304,6024;352811,4238;21,5428;51,0144
-Grota Filipczańska nad Mostkiem;T.B-24.01;10;0;0;tektoniczno-krasowa,;376;578535,7437;157751,7199;20,0802;49,2822
-Jaskinia Gwarecka;G-2.4;84;21;21;krasowa,;377;604778,4639;329544,3229;20,4881;50,8233
-Nyża Giewontowa;T.C-13.03;3,5;0;0;tektoniczno-krasowa,;378;568054,4349;154541,4163;19,9355;49,2546
-Schronisko w Starej Kamionce;G-1Ex;6;2,5;2,5;krasowa,;379;584358,4126;332848,6999;20,1989;50,8564
-Schronisko z Kością;G-7.25;4;0,5;0,5;tektoniczna,;380;623227,6957;358402,7912;20,7597;51,0792
-Dziura w Organach II;T.D-09.10;5;0;0;tektoniczno-krasowa,;381;563320,4812;153625,4876;19,8703;49,2469
-Jaskinia w Dudzińcu;T.D-05.09;17;3,5;5;tektoniczno-krasowa,;382;559730,3176;153685,4577;19,821;49,2478
-Sowia Jama I;T.D-08.42;18;9,2;9,2;tektoniczno-krasowa,;383;562879,0603;153685,7828;19,8642;49,2474
-Otwarty Schron;T.D-08.27;17;7;7;krasowo-tektoniczna,;384;562401,3578;153568,1878;19,8576;49,2464
-Szczelina za Okrętem I;T.D-08.46;13,5;0;3,5;tektoniczno-krasowa,;385;562478,5919;154125,0126;19,8588;49,2514
-Szczelina nad Jaskinią w Dudzińcu;T.D-05.10;15;0;8,5;tektoniczno-krasowa,;386;559730,3186;153685,4578;19,821;49,2478
-Schron pod Kufą Zachodni;T.D-06.12;7,4;0;3,7;tektoniczna,;387;560992,2587;153403,9649;19,8383;49,2451
-Schron ze Świeczką;T.D-08.52;4,7;0;0;krasowo-tektoniczna,;388;563054,1673;153981,301;19,8667;49,2501
-Zamczysko Wyżnie;T.D-08.59;38;0;10,4;tektoniczno-krasowa,;389;563209,8662;153650,5507;19,8688;49,2471
-Jaskinia Naciekowa;T.D-08.14;1210;62;97;krasowo-tektoniczna,;390;563168,6761;153923,354;19,8682;49,2496
-Schron przy Naciekowej;T.D-08.54;11;0;0;krasowo-tektoniczna,;391;563180,6959;153921,6728;19,8684;49,2495
-Schronisko przy Ścianach;T.D-05.02;6,5;0;1,5;tektoniczno-krasowa,;392;559871,7978;153854,1338;19,8229;49,2493
-Jaskinia Balkonowa;T.D-08.13;22;0;0;krasowo-tektoniczna,;393;563221,0284;153870,76;19,869;49,2491
-Szczelina za Okrętem II;T.D-08.47;11;0;0;tektoniczno-krasowa,;394;563069,1151;154058,6664;19,8669;49,2508
-Jaskinia Lodowa nad Kufą;T.D-06.08;20;3,5;3,5;tektoniczna,;395;561044,3186;153325,3738;19,839;49,2444
-Jaskinia Niedźwiedzia Niżnia;T.D-10.03;24;2,5;4;krasowo-tektoniczna,;396;565121,5374;153748,1007;19,8951;49,2478
-Dziurawa Koleba;T.D-08.45;4,5;0;0;krasowo-tektoniczna,;397;563126,3688;153859,2595;19,8677;49,249
-Korytarz z Różą;T.D-08.28;8,8;0;0;tektoniczno-krasowa,;398;563221,7947;153841,7916;19,869;49,2488
-Szczelina w Żlebie Kirkora;T.D-13.04;5,5;0;4;tektoniczno-krasowa,;399;567688,7896;154419,785;19,9305;49,2535
-Okno w Zamczysku;T.D-08.60;9;8;8;krasowa,;400;563199,2888;153672,2623;19,8686;49,2473
-Dziura nad Wapiennikiem;T.D-08.37;14,5;0;0;krasowo-tektoniczna,;401;562901,7318;154151,2005;19,8646;49,2516
-Dziura w Organach VI;T.D-08.55;6;0;0;tektoniczno-krasowa,;402;563028,8135;153692,743;19,8663;49,2475
-Dziura pod Oknem;T.D-08.12;33;9;9;krasowo-tektoniczna,;403;563187,3581;153858,8736;19,8685;49,249
-Zimna Szczelina II;T.D-08.39;15,5;0;7;tektoniczna,;404;562784,1864;153682,2736;19,8629;49,2474
-Jaskinia Śpiących Rycerzy;T.D-12.01;250;33;46;tektoniczno-krasowa,;405;560219,4179;154468,0868;19,8278;49,2547
-Sowia Jama III;T.D-08.44;5;0;0;tektoniczna,;406;562854,1384;153683,1244;19,8639;49,2474
-Szczelina za Okrętem III;T.D-08.48;3,7;0;0;tektoniczno-krasowa,;407;563068,1152;154058,6399;19,8669;49,2508
-Jaskinia nad Mostkiem Wyżnia;T.D-08.03;25;1;8,5;tektoniczno-krasowa,;408;562761,5799;154083,518;19,8627;49,251
-Jaskinia Krwawego Nosa;T.D-08.18;14;0;0;tektoniczno-krasowa,;409;563195,0874;153831,089;19,8686;49,2487
-Jaskinia Niedźwiedzia Średnia;T.D-10.04;18;5,8;7,7;krasowo-tektoniczna,;410;565126,1615;153573,2902;19,8951;49,2462
-Bardzo Niska Nyża;T.D-08.57;3,1;0;0;krasowa,;411;563124,8523;153614,3151;19,8676;49,2468
-Nyża z Dzięglem;T.D-08.61;4;0;0;tektoniczno-krasowa,;412;563203,687;153619,3993;19,8687;49,2468
-Suchy Biwak;T.E-07.02;70;0;0;tektoniczno-krasowa,;413;561357,6066;153158,7302;19,8432;49,2429
-Dziura nad Wantulami I;T.D-10.06;5,2;0;3,5;tektoniczno-krasowa,;414;565047,1481;153726,1406;19,894;49,2476
-Przelot;T.D-08.11;9;0;0;tektoniczno-krasowa,;415;563222,2365;153900,7802;19,869;49,2493
-Zimna Szczelina I;T.D-08.38;25;0;7,5;tektoniczna,;416;562801,4859;153670,7359;19,8632;49,2473
-Dziura w Organach IV;T.D-09.08;6,5;0;5;tektoniczno-krasowa,;417;563273,0812;153641,2271;19,8696;49,247
-Chelosiowa Jama-Jaskinia Jaworznicka;G-1.42;3670;57;61;krasowa,krasowo-tektoniczna,;418;605460,419;333542,9617;20,4989;50,8592
-Zimna Szczelina III;T.D-08.40;8;4;4;tektoniczno-krasowa,;419;562758,1297;153533,6424;19,8625;49,2461
-Wielka Nyża;T.D-08.26;9;0;8;tektoniczno-krasowa,;420;562549,5599;153596,0986;19,8597;49,2467
-Schronisko obok Kochanowa II;J.GT-02.02Ex;3;0;0;brak danych,;421;553310,59;249739,3262;19,7458;50,1125
-Jaskinia w Małej Świstówce;T.D-10.05;50;6,5;6,5;krasowo-tektoniczna,;422;565143,3932;153488,7786;19,8953;49,2454
-Gawra;T.E-09.01;17;1,8;1,8;krasowo-tektoniczna,;423;563668,7982;152550,1234;19,8749;49,2371
-Nisza z Jaworem;T.D-08.49;10,4;0;0;tektoniczno-krasowa,;424;563046,0494;154137,0253;19,8666;49,2515
-Jaskinia Zawaliskowa w Stołach;T.D-08.25;8;0;0;tektoniczno-krasowa,;425;562606,2537;153644,5798;19,8605;49,2471
-Dziura nad Wantulami II;T.D-10.07;3;0;2;tektoniczno-krasowa,;426;565052,0095;153731,2673;19,8941;49,2476
-Wiciowy Schron;T.D-08.41;4,3;0;0;krasowo-tektoniczna,;427;562731,6887;153512,9508;19,8622;49,2459
-Piwnica;T.D-04.06;4;0;0;krasowa,;428;559039,4027;153428,2782;19,8114;49,2455
-Jaskinia pod Baranami;T.D-06.01;23;0;5;krasowo-tektoniczna,;429;560754,1054;153375,6742;19,835;49,2449
-Nyża pod Brzózką;T.D-13.05;4;0;0;tektoniczno-krasowa,;430;567666,2414;154365,2087;19,9301;49,253
-Jaskinia Zamczysko Niżnie;T.D-08.58;58;-2,5;9,6;krasowo-tektoniczna,;431;563189,698;153657,0144;19,8685;49,2472
-Dziura w Organach III;T.D-09.09;3;0;0;tektoniczno-krasowa,;432;563248,7498;153578,6077;19,8693;49,2464
-Schron w Piecu;T.D-10.02;2,8;0;0;krasowa,;433;564493,1102;153773,4611;19,8864;49,2481
-Schron pomiędzy Żwirowymi Dziurami;T.D-09.07;2;0;0;tektoniczno-krasowa,;434;563249,2135;153825,5235;19,8693;49,2487
-Jaskinia Zakopiańska;T.D-09.01;46;11;12;krasowo-tektoniczna,;435;564124,826;152807,0897;19,8812;49,2394
-Korytarz do Naciekowej;T.D-08.04;10,5;6;6;krasowa,;436;563111,2426;153939,8277;19,8675;49,2497
-Schronisko przy Jaskini w Dudzińcu;T.D-05.08;3;0;0;wietrzeniowa,;437;559745,0378;153695,8431;19,8212;49,2478
-Jaskinia Mała;T.D-04.04;40;0;2,2;tektoniczno-krasowa,;438;559051,0754;153440,5821;19,8116;49,2456
-Schronisko Galenowe;G-23Ex;5;0;0;krasowa,;439;596591,6988;332104,1062;20,3725;50,8478
-Jaskinia Wysoka w Podgrodziu;G-8.2;6,5;0;3;tektoniczna,;440;678997,4879;340656,4202;21,5467;50,905
-Nyża przy Schodkach;T.D-11.02;6;0;4;tektoniczno-krasowa,;441;566274,7857;153608,6716;19,9109;49,2464
-Jaskinia Miętusia Wyżnia;T.D-10.01;810;108;145;tektoniczno-krasowa,;442;565153,1282;153499,0323;19,8955;49,2455
-Dziura w Organach I;T.D-09.11;8;0;3;krasowa,;443;563328,759;153652,696;19,8704;49,2471
-Kozia Grota;T.D-13.01;7,4;0;0;tektoniczno-krasowa,;444;568201,8313;154335,3939;19,9375;49,2527
-Schron w Opalonem I;T.D-06.10;4;0;0;krasowa,;445;560647,5784;153850,6653;19,8336;49,2492
-Dziurawiec;T.D-08.01;22;0;0;tektoniczno-krasowa,;446;562949,1837;154322,3892;19,8653;49,2532
-Dziura nad Potokiem;T.D-05.01;150;0;0;krasowo-tektoniczna,;447;559313,4583;153951,3187;19,8153;49,2502
-Dziura nad Wantulami III;T.D-10.08;3,4;0;0;tektoniczno-krasowa,;448;565071,9879;153731,7958;19,8944;49,2476
-Schron pod Jaskinią Goryckiego;T.D-08.20;6;0;0;tektoniczno-krasowa,;449;563001,8593;153955,9267;19,866;49,2499
-Zbójnicka Nyża;T.D-08.16;15;3,7;3,7;tektoniczno-krasowa,;450;563157,7546;153882,0811;19,8681;49,2492
-Nyża w Siodłowej Turni;T.D-13.06;13;0;1,4;tektoniczno-krasowa,;451;567445,0868;153769,5796;19,927;49,2477
-Szczelina w Niedźwiedziu;T.D-11.03;6;0;1,5;tektoniczno-krasowa,;452;566137,5292;153884,9345;19,909;49,2489
-Dziura w Organach V;T.D-09.12;4,5;0;0;tektoniczno-krasowa,;453;563245,8432;153688,4879;19,8693;49,2474
-Jaskinia Rybia;T.D-04.05;358;0;6;tektoniczno-krasowa,;454;559118,1294;153475,3424;19,8125;49,2459
-Nyża nad Olczyską I;T.C-18.01;4;0;0;tektoniczno-krasowa,;455;573056,2086;155639,2836;20,0044;49,2639
-Schronisko Dudowe;T.D-06.05;7;0;0;tektoniczno-krasowa,;456;560613,179;153374,9453;19,833;49,2449
-Siwarowa Dziura;T.D-12.02;33;0;5,2;krasowa,;457;566534,3484;153810,4637;19,9145;49,2482
-Nyża przy Starym Szlaku;T.D-13.07;3,9;0;0;tektoniczno-krasowa,;458;567434,1466;153994,2057;19,9269;49,2497
-Lejek;T.D-08.21;4,5;1,5;1,5;tektoniczna,;459;563154,3128;153860,9983;19,868;49,249
-Jaskinia w Mogiłkach;G-11Ex;9;0;0;krasowa,;460;611052,0818;340857,2515;20,5806;50,9239
-Kominek Giewontowy;T.C-13.04;14,7;6;12;krasowa,;461;568067,419;154541,7598;19,9357;49,2546
-Podwójna Szczelina;T.D-10.09;10;0;4,5;tektoniczno-krasowa,;462;565107,6106;153707,7477;19,8949;49,2474
-Jaskinie na Kadzielni;G-17Ex;0;0;0;krasowa,;463;613741,9931;333933,8819;20,6167;50,8611
-Rajska Brama;G-7.27;4,5;0,5;0,5;tektoniczna,;464;623227,6957;358402,7912;20,7597;51,0792
-Nyża nad Siodłem;T.D-13.08;5,3;0;3,5;tektoniczna,;465;567505,5248;153941,1146;19,9279;49,2492
-Jaskinia Błotna;T.D-12.05;28;2,7;2,7;tektoniczno-krasowa,;466;566477,4548;153694,0023;19,9137;49,2471
-Jaskinia Zawaliskowa w Długim Giewoncie;T.D-14.03;51;4,9;6,6;tektoniczna,;467;568493,3166;154275,1303;19,9415;49,2521
-Nyża w Kończystej;T.B-09.09;3;0;0;krasowo-tektoniczna,;468;563930,4812;155505,9011;19,879;49,2637
-Schron Traperów;G-7.29;2,5;0;1;erozyjna,;469;661492,7634;335476,933;21,2956;50,8636
-Schronisko przy Jaskini Mydlnickiej I;J.GT-01.02Ex;16;0;0;brak danych,;470;560087,2545;247495,3791;19,8403;50,0917
-Schronisko Krecie;J.Cz.IV-01.09;3;1,2;1,2;tektoniczna,;471;531104,6892;281367,6416;19,4378;50,3986
-Dziura w Szczerbie II;T.D-13.02;3,5;0;0;tektoniczna,;472;568205,128;154059,584;19,9375;49,2502
-Filipczańska Szczelina;T.B-24.02;4;0;2;tektoniczna,;473;578562,0496;156757,7496;20,0803;49,2733
-Dudowa Studnia;T.D-06.02;80;0;35;tektoniczno-krasowa,;474;560582,4752;153402,1219;19,8326;49,2451
-Szczelina w Wołowym Żlebie;T.D-10.10;14;0;11;tektoniczna,;475;565132,7176;153703,4138;19,8952;49,2474
-Schron przy Szczelinie;T.D-04.07;7;0;5;tektoniczno-krasowa,;476;558999,4572;153351,2524;19,8109;49,2448
-Brama Piekło;G-7.21;3;0,5;0,5;tektoniczna,;477;622162,3015;358192,0631;20,7444;51,0775
-Płaska Nyża;T.C-15.02;2;0;0;krasowa,;478;570009,4937;154625,1261;19,9624;49,2551
-Tunel pod Siwarową Dziurą;T.D-12.04;7;0;4,5;tektoniczno-krasowa,;479;566579,6952;153796,6689;19,9151;49,2481
-Szczelina nad Mostkiem;T.D-08.22;5;0;1,7;tektoniczna,;480;562747,8617;154035,1739;19,8625;49,2506
-Dziura w Stołach;T.D-08.23;3,3;0;0;tektoniczno-krasowa,;481;562301,1164;153616,5161;19,8563;49,2469
-Jaskinie na Wietrzni;G-18Ex;0;0;0;brak danych,;482;615514,5204;333355,1343;20,6417;50,8556
-Schronisko Sympozjalne;G-7.30;4;0;0;tektoniczna,;483;616406,3696;370015,0309;20,6661;51,185
-Schron Partyzantów;T.D-12.03;7,5;4;4;krasowa,;484;566564,4501;153806,2619;19,9149;49,2481
-Szczelina Chochołowska;T.D-04.02;2320;0;60;krasowo-tektoniczna,;485;559018,8575;153336,7716;19,8111;49,2447
-Jaskinia w Sudole;G-21Ex;20;6;6;tektoniczna,;486;673484,1371;348876,3208;21,4722;50,9806
-Schronisko w Małym Żlebku;T.A-12.01;3;0;0;krasowa,;487;566339,1623;156654,2229;19,9123;49,2738
-Jaskinia Miętusia;T.D-11.01;10780;283;305;krasowo-tektoniczna,;488;565409,5715;153591,7827;19,899;49,2463
-Dziura w Szczerbie I;T.D-13.03;17;6;6;tektoniczna,;489;568186,2815;154054,0873;19,9372;49,2502
-Dziura nad Doliną Strążyską;T.C-13.02;34;0;14;tektoniczno-krasowa,;490;567991,2118;154550,7396;19,9346;49,2547
-Szemrzący Schron;T.D-06.03;3;0;0;tektoniczno-krasowa,;491;561104,5372;153391,9408;19,8398;49,245
-Jaskinia Juhaska;T.D-14.01;23;16;16;krasowa,;492;568617,7049;154523,3299;19,9432;49,2544
-Schron Wschodni pod Kufą;T.D-06.14;3;0;0;tektoniczna,;493;561087,641;153501,4501;19,8396;49,246
-Duża Grota w Skałkach Dalejowskich;G-7.22;7;0;0;tektoniczna,;494;623189,5323;358370,9835;20,7592;51,0789
-Dudowy Schron;T.D-06.06;2,8;0;0;tektoniczno-krasowa,;495;560588,0215;153381,277;19,8327;49,2449
-Szczelina nad Zimną;T.D-08.19;6;0;0;tektoniczno-krasowa,;496;563147,4321;153856,8178;19,8679;49,249
-Schron w Opalonem II;T.D-06.11;3,5;0;0;tektoniczna,;497;560889,8919;153835,084;19,8369;49,249
-Okap na Wzgórzu Żary II;J.Cz.IV-02.29;10;0;2,1;krasowa,;498;537128,1737;283660,6897;19,5228;50,4189
-Jaskinia między Żleby;T.D-08.06;19;0;0;krasowo-tektoniczna,;499;563055,6967;153961,3493;19,8667;49,2499
-Ruda Nyża;T.D-14.02;9;0;5,4;tektoniczno-krasowa,;500;568317,8845;154180,5228;19,9391;49,2513
+Grota w Mechowej;NP-01;61;;;wietrzeniowa.erozyjna;1;455347.8987;752398.4115;18.308;54.6334
+Jaskinia Śnieżna;T.E-13.01;14954;602.5;622; ;2;567407;152989;19.9263;49.2407
+Nisze nad Czarcimi Oknami;NP-06;4.5;;1;wietrzeniowa;3;244094.8712;583818.4159;15.1797;53.0583
+Jaskinia Debiutantów;G-1.3;10;1;2.5;tektoniczno-krasowa;4;615572.4673;333387.3153;20.6425;50.8558
+Jaskinia na Wietrzni;G-1.5;60;10;10;krasowa;5;615751.8056;333236.8435;20.645;50.8544
+Jaskinia Wielka Śnieżna;T-Wielka Śnieżna;23723;808;824;tektoniczno-krasowa;6;567168.2155;152902.5794;19.923;49.2399
+Spękana Szczelina;T.E-09.34;11.5;;4.9;tektoniczna;7;563643.3699;152415.503;19.8745;49.2359
+Schronisko Równoległe;G-1.2;2;;;krasowa;8;615494.2897;333385.5773;20.6414;50.8558
+Jaskinia w Gackach;N-2.4;115;;2;krasowa;9;613463.7771;288857.8387;20.5989;50.4558
+Schron w Marzęcinie;N-2.7;2.5;;;krasowa;10;613927.1878;290226.9914;20.6058;50.4681
+Jaskinia Śpiącego Szweda;NP-04;15;;2.5; ;11;472523.5207;727049.8138;18.5766;54.4067
+Schronisko Północne;N-2.35;3;;1;krasowa;12;618659.2478;284956.4238;20.6708;50.4197
+Schronisko nad Jaskinią z Potokiem;N-2.27;2.5;;;krasowo-tektoniczna;13;618756.4893;285020.3924;20.6722;50.4203
+Jaskinia w Antolce;N-1.1;20;12;12;tektoniczna;14;577631.2225;282618.5179;20.0928;50.4056
+Schronisko w Bogucicach;N-2.1;5;;;krasowa;15;612395.2531;291800.3548;20.5847;50.4825
+Schronisko Gliniaste;G-1.4;3;;2.5;krasowa;16;615634.5357;333234.2329;20.6433;50.8544
+Jaskinia w Skorocicach wzmiankowana przez Sawickiego;N-6Ex;;;;brak danych;17;618370.9714;284610.1534;20.6667;50.4167
+Kominy I;G-1.16;6.5;4.5;4.5;tektoniczno-krasowa;18;613778.3729;334058.2475;20.6172;50.8622
+Studzienka w Siesławicach;N-2.69;5.5;1.2;1.2;tektoniczna;19;620178.2576;288450.6026;20.6933;50.4508
+Schronisko z Koralami;G-1.17;2;1.5;1.5;krasowo-tektoniczna;20;613778.3729;334058.2475;20.6172;50.8622
+Schronisko Zjazdowe;G-1.10;2.5;;;krasowa;21;613877.4353;333998.6332;20.6186;50.8617
+Nocna Loża;G-1.15;2;;;krasowo-tektoniczna;22;613861.9531;333812.9403;20.6183;50.86
+Jaskinia Wschodnia na Kadzielni;G-1.14;80;9.5;10.5;krasowo-tektoniczna;23;613898.331;333937.3067;20.6189;50.8611
+Schronisko na Skraju Lasu;J.Cz.IV-04.119;5.5;;;krasowa;24;553249.9873;285342.6952;19.75;50.4328
+Jaskinia Klonowa;NP-12;19;2.5;2.5;wietrzeniowa;25;486599.9918;626247.9153;18.7979;53.501
+Jaskinia Odkrywców;G-1.7;392;16.5;23;krasowa;26;613876.0818;334060.3881;20.6186;50.8622
+Schronisko Kontaktowe;G-1.11;3;;;krasowa;27;613877.4353;333998.6332;20.6186;50.8617
+Szczelina w Maszczykowych Skałach I;J.Cz.II-05.21;13;17;17;tektoniczno-krasowa;28;532204.1132;312149.5889;19.4559;50.6755
+Schronisko nad Szczeliną;G-1.12;2;;;krasowa;29;613877.4353;333998.6332;20.6186;50.8617
+Jaskinia w Anastomozach;J.BK-02.01;7;;;tektoniczno-krasowa;30;565620.3762;241878.1987;19.9167;50.0406
+Jaskinia Magierowska;N-4Ex;;;;brak danych;31;635975.8909;283180.6372;20.9139;50.4
+Jaskinia w Skotnikach Małych;N-3Ex;;;;brak danych;32;627196.1613;286977.932;20.7917;50.4361
+Schronisko w Połchowie;NP-02;7;;3;wietrzeniowa;33;460290.5808;748216.4955;18.3852;54.5962
+Groty w Nagórzycach;NP-4Ex;617;;;sztuczna;34;569268.0904;403795.0441;19.9981;51.4965
+Jaskinia w Starym Puszczykowie;NP-1Ex;;;;brak danych;35;352788.4113;492497.8612;16.8414;52.2787
+Schronisko w Rafie;G-1.18;2;;;krasowa;36;613778.3729;334058.2475;20.6172;50.8622
+Jaskinia Bajka I;NP-09;19;;; ;37;445641.0118;590800.548;18.1864;53.1797
+Jaskinia Bajka II;NP-10;10;;; ;38;445409.4567;591972.9139;18.1827;53.1902
+Czarcie Okna;NP-05;3;;;erozyjna.wietrzeniowa;39;244285.2939;581999.8713;15.184;53.0421
+Schronisko Mysie;G-1.20;2;;;krasowa;40;613798.591;334027.798;20.6175;50.8619
+Grota Mirachowska II;NP-08;4;;;erozyjna;41;435601.7861;721690.1799;18.0088;54.3552
+Schronisko Mokre;N-2.68;3.5;3;3;krasowa;42;620198.6747;288420.1768;20.6936;50.4506
+Ciasna Dziura;NP-15;2;;;wietrzeniowa;43;496770.8606;627232.5284;18.9513;53.51
+Schronisko Bajkowe;N-2.17;12;;;krasowa;44;617103.1621;287485.5765;20.6497;50.4428
+Szczelina w Kurowie;NP-17;1.5;;; ;45;753960.4652;587422.4207;22.7942;53.0916
+Schronisko Ciepłe;G-1.1;2;;;krasowa;46;615455.2009;333384.7087;20.6408;50.8558
+Grota Mirachowska I;NP-07;7;;1;wietrzeniowa.erozyjna;47;435325.565;724790.0261;18.0039;54.3831
+Jaskinia w Krzyżanowicach Górna;N-2.2;60;;6;krasowa;48;612561.0125;288653.1465;20.5861;50.4542
+Jaskinia w Skotnikach Górnych;N-2.15;31;;;krasowa;49;617108.2716;285477.8097;20.6492;50.4247
+Schronisko ze Studnią;N-2.14;11;2.5;2.5;krasowo-tektoniczna;50;617108.2716;285477.8097;20.6492;50.4247
+Dziura w Maruszynie;P-1.01;5;;;krasowa;51;571673.0409;173414.4073;19.9886;49.424
+Schronisko w Obłazowej I;P-1.05;14;;;tektoniczno-krasowa;52;581751.8951;174081.5973;20.1278;49.4287
+Jaskinia w Obłazowej;P-1.04;11;;5;krasowa;53;581701.9503;174080.2726;20.1271;49.4287
+Płaska Nisza;NP-14;2;;;wietrzeniowa;54;490355.55;626104.8036;18.8546;53.4998
+Schronisko w Szaflarach;P-1.02;3;;;krasowa;55;573430.0634;175010.4637;20.0132;49.4381
+Schronisko w Kramnicy;P-1.07;3;;2.5;tektoniczno-krasowa;56;581971.6698;174087.4267;20.1308;49.4287
+Jaskinia Lisia;N-2.12;76;2;5;krasowa;57;617108.2716;285477.8097;20.6492;50.4247
+Schronisko przy Lisiej;N-2.13;11.5;3;3;krasowo-tektoniczna;58;617108.2716;285477.8097;20.6492;50.4247
+Lejowa Studnia;N-5Ex;10;7;7;krasowo-tektoniczna;59;613520.2513;288982.6139;20.5997;50.4569
+Jaskinia koło Skorocic;N-2Ex;;;;brak danych;60;618519.6919;286775.8419;20.6694;50.4361
+Schronisko Wodne pod Kramnicą;P-1.08;4;;;krasowa;61;581969.0241;174187.3245;20.1308;49.4296
+Jaskinia Lucyny;N-2.3;6;1;1;tektoniczno-krasowa;62;612718.7086;288656.516;20.5883;50.4542
+Schronisko w Lorencowych Skałkach;P-1.09;3.5;2.5;2.5;krasowa;63;584319.1649;173399.9271;20.163;49.4222
+Schronisko w Borsukowej Skale I;P-1.10;3.5;1;1;tektoniczna;64;584625.4862;173158.1291;20.1672;49.42
+Jaskinia w Dziurowej Skale;P-1.15;70;17.5;17.5;tektoniczna;65;586154.4668;173178.6854;20.1883;49.42
+Schronisko w Zielonych Skałkach;P-1.20;15;;;tektoniczna;66;593483.4764;174642.7044;20.2897;49.4321
+Schronisko w Żorze;P-1.16;4.5;2;2;tektoniczna;67;588877.8284;173020.98;20.2258;49.4182
+Schronisko przy Zielonej Drodze;P-1.19;7;;;tektoniczna;68;590119.957;173303.8488;20.243;49.4205
+Schronisko Czorsztyńskie;P-1Ex;;;;erozyjna;69;595027.9816;174833.6328;20.311;49.4335
+Jaskinia Skoruszowa;T.E-09.03;23;0.7;8;krasowa;70;563611.8124;152512.6303;19.8741;49.2368
+Komora Kryształowa;NP-3Ex;;;;brak danych;71;450037.8762;546706.0975;18.259;52.7837
+Krzywa Dziura;P-1.18;12;4.5;4.5;tektoniczno-krasowa;72;589832.7117;172826.3683;20.2389;49.4163
+Nisze w Bielawach;NP-2Ex;;;;brak danych;73;433243.5967;550535.6258;18.0092;52.8163
+Jaskinia Żydowska;N-2.9;25;0.7;3.2;krasowa;74;613866.7347;290287.4646;20.605;50.4686
+Schronisko w Zielonych Skałkach Górne;P-1.21;6;;2;krasowa;75;593484.0093;174622.7241;20.2897;49.4319
+Żółty Schron;T.E-09.32;4.5;;1.9;tektoniczno-krasowa;76;563494.9805;152621.4966;19.8725;49.2378
+Szczelina na Kadzielni;G-1.9;220;;; ;77;613877.4353;333998.6332;20.6186;50.8617
+Schronisko w Borsukowej Skale III;P-1.12;2.5;;;tektoniczna;78;582652.4898;173105.8034;20.14;49.4198
+Kominy II;G-1.19;10;4.5;7;krasowo-tektoniczna;79;613797.9147;334058.6754;20.6175;50.8622
+Prosta Dziura;P-1.17;7;6;6;krasowa;80;589682.3331;172842.3744;20.2369;49.4164
+Schronisko w Dziurowej Skale;P-1.14;2;1.5;1.5;krasowa;81;586222.5376;173250.4693;20.1892;49.4206
+Jaskinie w Leszczach;N-13Ex;;;;brak danych;82;612720.6892;288563.8895;20.5883;50.4533
+Jaskinia pod Dachem;T.E-11.08;104;66;66;tektoniczna;83;565901.8566;152969.047;19.9057;49.2407
+Schronisko w Borsukowej Skale II;P-1.11;3.3;1.5;1.5;tektoniczna;84;584635.472;173158.394;20.1673;49.42
+Jaskinia Wielka Litworowa;T.E-12.01;7185;354;370; ;85;566557;152840;19.9146;49.2394
+Prochownia;G-1.8;172;;; ;86;613876.0818;334060.3881;20.6186;50.8622
+Jaskinia nad Kotlinami;T.E-12.06;1465;433.5;433.5; ;87;567024.7515;152919.777;19.9211;49.2401
+Jaskinia w Szaflarach;P-1.03;43;6;6;krasowa;88;573455.0331;175011.1261;20.0135;49.4381
+Jasny Awen;T.E-12.05;115;61;61; ;89;567061.607;152924.7503;19.9216;49.2402
+Jaskinia Wilcza;T.E-12.64;54.7;16;16; ;90;567253.9065;153099.7726;19.9243;49.2417
+Piotrusiowa Jama;G-1.21;2;;;krasowa;91;613798.591;334027.798;20.6175;50.8619
+Schronisko Ciasne w Podcisowiu;J.Cz.IV-04.107;17.5;1.2;1.2;krasowo-tektoniczna;92;550731.3334;286769.2438;19.7147;50.4458
+Schronisko w Chwałowicach;N-2.10;2.5;;;krasowa;93;614700.363;300870.0721;20.62;50.5636
+Jaskinia pod Murem;T.D-08.56;14;4.4;4.4;tektoniczno-krasowa;94;562542.8815;153621.9117;19.8596;49.2469
+Schronisko nad Zawaliskową;G-1.23;6;;; ;95;613857.1011;333951.724;20.6183;50.8612
+Schronisko w Zielonej Górze;N-2.25;2;;1;krasowo-tektoniczna;96;618697.3114;285019.0611;20.6714;50.4203
+Jaskinia w Marzęcinie;N-22Ex;;;;brak danych;97;613904.1442;290380.9431;20.6056;50.4694
+Komin Geologów;G-1.25;11;10;10;krasowo-tektoniczna;98;613741.9931;333933.8819;20.6167;50.8611
+Szczelina w Skorocicach;N-2.23;16;4;4;tektoniczna;99;618695.9227;285080.8114;20.6714;50.4208
+Jaskinia Urwista na Kadzielni;G-1.26;18;2;3;krasowa;100;613741.9931;333933.8819;20.6167;50.8611
+Szczelina Magdaleny;N-2.24;2;;1.1;tektoniczna;101;618715.6484;285081.2551;20.6717;50.4208
+Schronisko Nietoperza;G-1.24;2;;;tektoniczno-krasowa;102;613799.9435;333966.0431;20.6175;50.8614
+Pustki podziemne w Posądzy;N-19Ex;;;;brak danych;103;683790.6675;301535.9558;21.5953;50.5519
+Jaskinia Zawaliskowa;G-1.22;30;6;6;krasowo-tektoniczna;104;613818.1329;334028.226;20.6178;50.8619
+Polny Schron;N-2.18;8;;;krasowa;105;617103.8477;287454.7012;20.6497;50.4425
+Schronisko w Chotelku;N-2.19;3.5;;;krasowa;106;618906.4225;287124.3452;20.675;50.4392
+Schronisko Niespodzianka w Wielkiej Górze;N-2.20;5;2.2;2.2;krasowa;107;618755.0998;285082.1426;20.6722;50.4208
+Schronisko przy Tunelu;N-2.22;6;;1;krasowa;108;618715.6484;285081.2551;20.6717;50.4208
+Tunel w Skorocicach;N-2.21;18;;3;krasowa;109;618715.6484;285081.2551;20.6717;50.4208
+Jaskinia z Potokiem;N-2.26;46;4.5;4.5;krasowa;110;618756.4893;285020.3924;20.6722;50.4203
+Schronisko Ptaszników;N-2.30;2;;;krasowa;111;618738.1525;284958.1983;20.6719;50.4197
+Jaskinia pod Łodzikami;G-1.13;21;4;4;krasowa;112;613897.6542;333968.1841;20.6189;50.8614
+Jaskinia w Kępie Redłowskiej;NP-03;23.5;5;5;erozyjna;113;472761.3227;729503.8735;18.58;54.4288
+Schronisko w Skotnikach Dolnych;N-2.16;3.5;;;krasowa;114;615982.5889;284618.9147;20.6331;50.4172
+Wielki Schron;N-2.28;7;1.7;1.7;krasowo-tektoniczna;115;618757.184;284989.5173;20.6722;50.42
+Jaskinia Stara;N-2.29;86;3;3;krasowa;116;618757.184;284989.5173;20.6722;50.42
+Schronisko przy Rowie;N-2.11;3.5;;1;tektoniczno-krasowa;117;617107.5864;285508.6849;20.6492;50.425
+Schronisko z Zaciskiem;N-2.40;3.2;;;krasowa;118;618681.0567;284864.242;20.6711;50.4189
+Jaskinia w Czarkowych;N-1Ex;;;;brak danych;119;621620.8159;272018.7081;20.7083;50.3028
+Schronisko pod Wodospadem;G-7.1;3;;1;erozyjna;120;666035.9452;337752.7144;21.3611;50.8828
+Stare Piekło;G-5.5;6;;;krasowa;121;592489.5204;330763.1017;20.3139;50.8364
+Jaskinia Skora;J.Śl-02.06;35;3;3; ;122;509076.5663;282580.7367;19.1278;50.4103
+Jaskinia Skrocicka;N-2.33;352;;5;krasowa;123;618739.5417;284896.4481;20.6719;50.4192
+Schronisko Wschodnie w Siesławicach;N-2.64;3;;;krasowa;124;620200.0825;288358.4264;20.6936;50.45
+Schronisko w Skorocicach pod Drogą Zachodnie;N-2.36;13;1;3.5;tektoniczna;125;618680.3625;284895.1171;20.6711;50.4192
+Schronisko nad Przepaścią;G-1.29;2.5;;;krasowa;126;613721.775;333964.3316;20.6164;50.8614
+Jaskinia Południowa na Miedziance;G-2.23;12.5;;;krasowa;127;595597.0078;331962.1661;20.3583;50.8467
+Schronisko w Śladkowie Małym;N-2.78;10;;1.5;wietrzeniowa;128;623826.9738;302683.7858;20.7494;50.5781
+Jaskinia Lubańska;G-5.1;4;;;krasowa;129;625640.8272;308256.8164;20.7769;50.6278
+Duża Dziurawa Studnia;G-5.11;7.5;3.5;3.5;krasowa;130;592719.9531;327709.3035;20.3164;50.8089
+Słomiany Tunel;N-2.34;7;;1;krasowa;131;618719.1208;284926.8795;20.6717;50.4194
+Jaskinia Ucho Olki;N-2.38;79;7.2;8.8; ;132;618640.9097;284894.2301;20.6706;50.4192
+Grota Szydły I;N-2.79;7;;2.7;sztuczna;133;641566.1725;304368.2241;21.0006;50.5892
+Schronisko Pochyłe;G-5.8;2.5;;;krasowo-tektoniczna;134;592607.9388;330703.433;20.3156;50.8358
+Płaska Jama I w Krynkach;G-7.5;5.5;;;tektoniczna;135;653296.6727;350710.8437;21.1856;51.0028
+Jaskinia Opalowa;N-2.71;11;;1;krasowa;136;621642.4768;279680.1501;20.7111;50.3717
+Dziupla;N-2.60;11;2;2;krasowa;137;620023.3635;288323.5092;20.6911;50.4497
+Jaskinia Draba;J.Wl-01.06;67;3.8;5.3;krasowa;138;485475.1477;359143.3421;18.7925;51.0989
+Płaska Jama II w Krynkach;G-7.6;5.5;;;tektoniczna;139;653296.6727;350710.8437;21.1856;51.0028
+Schronisko z Czosnkiem;N-2.55;5;;;krasowa;140;619533.8738;282937.3626;20.6825;50.4014
+Schronisko Samotne;N-2.53;3;;;krasowa;141;619493.0091;282998.2195;20.6819;50.4019
+Jaskinia w Woli Zagojskiej;N-7Ex;;;;krasowa;142;614533.0172;286842.2234;20.6133;50.4375
+Schronisko Małe;N-28Ex;4;1;1;krasowo-tektoniczna;143;613931.8609;290010.8626;20.6058;50.4661
+Schronisko nad Chelosiową Jamą;G-1.36;4;2;2;krasowo-tektoniczna;144;605499.5055;333543.7551;20.4994;50.8592
+Grota Skrzatów;G-7.8;3;;;wietrzeniowa;145;653280.8537;350586.7618;21.1853;51.0017
+Schronisko w Grodzisku;N-2.74;6;;;tektoniczno-krasowa;146;627929.7596;287644.4261;20.8022;50.4419
+Schronisko w Skorocicach pod Drogą Wschodnie;N-2.37;13;;2;tektoniczno-krasowa;147;618700.0889;284895.5607;20.6714;50.4192
+Raj;G-2.17;240;9.5;9.5;krasowo-tektoniczna;148;605556.4097;329776.2793;20.4992;50.8253
+Jaskinia w Sielcu;N-14Ex;;;;brak danych;149;616495.3454;298005.8311;20.6444;50.5375
+Jaskinia Psia;G-2.27;16.5;4;4;krasowa;150;595913.7752;331751.7802;20.3628;50.8447
+Schronisko Osobne;G-7.13;2.5;;;tektoniczna;151;651976.6503;353823.9554;21.1681;51.0311
+Wojtkowa Dziura;G-1.33;2.5;;2;tektoniczna;152;605831.7413;333550.5108;20.5042;50.8592
+Jaskinia w Sztolni Zofia na Miedziance;G-2.20;279;14;23;krasowo-tektoniczna;153;595575.1884;332085.3191;20.3581;50.8478
+Czarcie Wrota;G-6.4;2;;;tektoniczna;154;598744.893;363652.2962;20.4117;51.1311
+Schronisko pod Drutami;G-7.10;4.5;;;tektoniczna;155;651697.7231;354032.0733;21.1642;51.0331
+Schronisko Wschodnie w Podwalu;N-2.82;3.5;;;tektoniczna;156;668257.4806;306979.949;21.3786;50.6056
+Schronisko Dwuotworowe na Miedziance;G-2.24;8.5;1.5;1.5;krasowo-tektoniczna;157;595635.5373;331993.7633;20.3589;50.8469
+Dziura na Przestrzał;G-7.11;7.5;1.5;1.5;tektoniczna;158;651718.0994;354001.7691;21.1644;51.0328
+Lisia Dziura w Łagowie;G-3.2;18;2;2;krasowo-tektoniczna;159;647177.4512;325101.6859;21.0881;50.7742
+Jaskinia w Łatanicach;N-29Ex;20;;1;krasowo-tektoniczna;160;620211.2472;284404.6143;20.6925;50.4144
+Jaskinia w Czerwonej Górze;G-2.2;35;5.5;5.5;krasowa;161;605471.7655;329125.8666;20.4978;50.8194
+Jaskinia Świętej Barbary;G-7.7;18;2;2;tektoniczna;162;653316.1543;350711.4216;21.1858;51.0028
+Okap Massalskiego;G-7.2;;;;wietrzeniowa.erozyjna;163;663673.2416;334556.2153;21.3261;50.8547
+Schronisko w Okrągłej Górze;N-2.39;6;;;krasowa;164;618681.0567;284864.242;20.6711;50.4189
+Schronisko Zakryte;G-2.22;2.5;;;krasowo-tektoniczna;165;595576.3238;332023.5629;20.3581;50.8472
+Jaskinia w Sztolni Teresa na Miedziance;G-2.28;270;;16;krasowa;166;595913.7752;331751.7802;20.3628;50.8447
+Jaskinia Dzwonów;N-2.31;91;;5;krasowo-tektoniczna;167;618738.1525;284958.1983;20.6719;50.4197
+Jaskinia Pajęcza;G-1.34;1183;17.5;25.5;krasowa;168;605441.5022;333511.6873;20.4986;50.8589
+Jaskinia w Śladkowie Dużym;N-2.77;10.7;;;krasowa;169;621064.5765;303051.8275;20.7106;50.5819
+Schronisko Bardzo Niskie;G-6.5;3.5;;;tektoniczna;170;598764.3225;363652.6691;20.4119;51.1311
+Jaskinia w Siesławicach;N-2.63;21;5;5;krasowa;171;620180.369;288357.977;20.6933;50.45
+Jaskinia Szeroka;N-2.61;48;1.5;3;krasowa;172;620023.3635;288323.5092;20.6911;50.4497
+Studnia Gwarków;G-2.3;6.5;4;4;krasowo-tektoniczna;173;605473.0171;329064.1114;20.4978;50.8189
+Tunelik w Skałkach Adamowskich;G-7.12;4;2;2;tektoniczna;174;651777.4143;353972.6095;21.1653;51.0325
+Jaskinia Dolomitowa;G-4.2;10;2;2;tektoniczna;175;652118.1575;338376.8306;21.1636;50.8922
+Jaskinia za Filarem;G-1.27;11.5;;8;krasowa;176;613741.3171;333964.7594;20.6167;50.8614
+Schronisko pod Płytą;G-2.7;3;;;tektoniczna;177;602913.079;328889.2975;20.4614;50.8178
+Płaska Jama III w Krynkach;G-7.9;2.5;;;tektoniczna;178;653323.4814;350464.4134;21.1858;51.0006
+Ślubny Schron;G-7.3;12;3.5;3.5;tektoniczna;179;663692.7848;334556.8311;21.3264;50.8547
+Schronisko w Łatanicach II;N-10Ex;10;;;krasowo-tektoniczna;180;620132.3339;284402.8179;20.6914;50.4144
+Schronisko Lisa w Okopankach;G-7.4;3;;;tektoniczna;181;663692.7848;334556.8311;21.3264;50.8547
+Jaskinia Zbójecka w Łagowie;G-3.1;174;17;22;krasowo-tektoniczna;182;647464.4735;326036.8038;21.0925;50.7825
+Jaskinia Górna;N-2.32;61;4;4;krasowo-tektoniczna;183;618758.5734;284927.767;20.6722;50.4194
+Schronisko Krótkie w Jaworzni;G-1.35;5;;;krasowa;184;605421.9588;333511.2908;20.4983;50.8589
+Zbójecka Dziura;T.D-04.01;100;9;9;krasowa;185;559052.2536;153660.524;19.8116;49.2476
+Schronisko w Siesławicach I;N-11Ex;14;;;brak danych;186;620219.7961;288358.8759;20.6939;50.45
+Pustki podziemne w Staszowie;N-16Ex;;;;brak danych;187;653718.9614;302485.4457;21.1714;50.5692
+Schronisko Wodne I;N-2.65;2;;;krasowa;188;620178.9614;288419.7274;20.6933;50.4506
+Dziura pod Kazalnicą;T.D-08.29;3;;;tektoniczno-krasowa;189;562679.2108;153569.5399;19.8615;49.2464
+Jaskinia pod Fałdem;G-1.32;11;5;5;krasowa;190;611686.91;336762.2454;20.5883;50.8869
+Schronisko z Mostem Skalnym;G-2.26;15;7;7;krasowa;191;595814.3203;331842.6122;20.3614;50.8456
+Jaskinia Półkolista;N-2.62;58;1;1;krasowa;192;620100.8115;288387.0553;20.6922;50.4503
+Jaskinia na Kontakcie;N-2.52;75;;1.5;krasowa;193;619473.2756;282997.773;20.6817;50.4019
+Jaskinia pod Wygódką;N-2.54;12;;1.5; ;194;619512.4688;282977.2036;20.6822;50.4018
+Grota Szydły II;N-2.80;8.5;;;sztuczna;195;641566.1725;304368.2241;21.0006;50.5892
+Jaskinia Flisa;N-2.46;71;2;5;krasowa;196;619315.4072;282994.2041;20.6794;50.4019
+Grota Świętej Rozalii;G-6.1;5;;;wietrzeniowa;197;597386.6614;345988.2023;20.3875;50.9725
+Jaskinia pod Świecami;N-2.81;106;;7;krasowa;198;654341.0813;306088.2027;21.1817;50.6014
+Schron Polichniański;G-2.18;5;;;krasowa;199;600937.0492;327862.1375;20.4331;50.8089
+Schronisko na Szczelinie;G-2.8;7;;;krasowa;200;602913.079;328889.2975;20.4614;50.8178
+Schron z Przepływem;N-2.48;10;1;2.5; ;201;619532.8148;282964.2535;20.6825;50.4016
+Schronisko Łaszczyńskich;G-2.13;5;2;2;krasowa;202;596470.9711;332287.1968;20.3708;50.8494
+Schronisko Niedostępne;G-1.28;4;2;2;krasowa;203;613741.3171;333964.7594;20.6167;50.8614
+Jaskinia Skośna;T.E-06.01;28;;5.6;tektoniczna;204;561210.1165;153103.8493;19.8412;49.2424
+Jaskinia Szydłowska;N-2.84;12;;1;tektoniczna;205;641442.4148;304581.1667;20.9989;50.5911
+Studnia w Jędrzejowie;N-26Ex;17;17;17;brak danych;206;591684.13;307521.6714;20.2967;50.6275
+Jaskinia na Kadzielni Górna;G-1.31;6;1;1;krasowa;207;613761.5353;333934.3098;20.6169;50.8611
+Schronisko Zygmunta;G-2.1;6.5;;;krasowa;208;605471.1396;329156.7442;20.4978;50.8197
+Jaskinia Ponurego;G-4.1;25;7.5;7.5;tektoniczna;209;631138.6793;349606.826;20.8694;50.9983
+Lisia Jama w Jaworzni;G-1.38;3;;;tektoniczna;210;605281.4013;333693.784;20.4964;50.8606
+Jaskinia w Łagiewnikach;N-8Ex;;;;brak danych;211;623700.3124;293011.431;20.7444;50.4911
+Mały Tunel;N-2.41;6;;1.5;krasowa;212;618642.2977;284832.4799;20.6706;50.4186
+Jaskinie w Piasecznie i Machowie;N-18Ex;;;;krasowa;213;683790.6675;301535.9558;21.5953;50.5519
+Jaskinia w Skorocicach u Ujścia Doliny;N-2.43;122;3;4.5;krasowa;214;618623.265;284801.1614;20.6703;50.4183
+Jaskinia w Krzyżanowicach Dolna;N-9Ex;20;2;;krasowa;215;612720.6892;288563.8895;20.5883;50.4533
+Dwie Studnie;N-2.58;31;3.5;3.5;krasowa;216;620025.4721;288230.8836;20.6911;50.4489
+Schronisko Mechate;G-2.9;2;;;krasowa;217;602853.7868;328919.015;20.4606;50.8181
+Sołecka Studnia w Gackach;N-27Ex;6.3;6.3;6.3;krasowa;218;613520.2513;288982.6139;20.5997;50.4569
+Czyściec;G-2.10;2;;;krasowa;219;601029.0307;330180.6268;20.435;50.8297
+Schronisko Trójkątne;N-2.42;3;;;krasowo-tektoniczna;220;618622.5711;284832.0365;20.6703;50.4186
+Jaskinia krasowa w Staszowie;N-17Ex;11;7;7;brak danych;221;653718.9614;302485.4457;21.1714;50.5692
+Studnia w Szańcu I;N-20Ex;;;;brak danych;222;618082.4357;296589.3589;20.6664;50.5244
+Mostek w Aleksandrowie;N-2.45;3.5;;;krasowa;223;619256.9037;282961.9919;20.6786;50.4017
+Jaskinia Wodna w Siesławicach;N-2.67;25;8;8;krasowa;224;620198.6747;288420.1768;20.6936;50.4506
+Schronisko Marcina;N-2.50;3.5;2;2;krasowa;225;619393.6434;283026.863;20.6806;50.4022
+Schronisko Piecowe;N-2.57;2;;;krasowa;226;619575.8837;285440.4755;20.6839;50.4239
+Schronisko Szklarków;G-5.2;3;2;2;krasowa;227;601363.1921;326078.8347;20.4386;50.7928
+Gazownia;G-1.37;30;;;krasowa;228;605420.0796;333603.9241;20.4983;50.8597
+Schronisko przy Dziupli;N-2.59;3;;;krasowo-tektoniczna;229;620023.3635;288323.5092;20.6911;50.4497
+Schronisko Stołowe;N-23Ex;4;;;brak danych;230;613952.9033;289949.5377;20.6061;50.4656
+Jaskinia w Aleksandrowie;N-2.47;163;;4;krasowa;231;619315.4072;282994.2041;20.6794;50.4019
+Schronisko Narożne;N-2.49;14;1.5;3; ;232;619534.159;282914.2984;20.6825;50.4012
+Jaskinia w Marzyszu;G-2.14;13;;4.5;krasowa;233;619367.4821;324792.1032;20.6936;50.7778
+Dziura w Leju;N-2.75;6;3.5;3.5;tektoniczna;234;623655.0005;292423.4134;20.7436;50.4858
+Piekło pod Skibami;G-2.11;57;;8;krasowa;235;600850.0361;330331.6007;20.4325;50.8311
+Ciasny Kominek;G-1.40;2.5;;2;krasowa;236;605243.5667;333631.2366;20.4958;50.86
+Jaskinia ze Świetlikami;N-2.70;5;1;1;tektoniczna;237;620178.2576;288450.6026;20.6933;50.4508
+Jaskinia Sawickiego;N-2.72;173;;3;krasowa;238;624091.0811;289807.8288;20.7489;50.4622
+Studnia w Szańcu II;N-21Ex;;;;brak danych;239;618100.7314;296651.5522;20.6667;50.525
+Jaskinia nad Wodą;N-2.44;5;;;krasowa;240;618683.1395;284771.6166;20.6711;50.4181
+Jaskinia w Ryglu;N-2.51;60;;3;krasowa;241;619394.3414;282995.988;20.6806;50.4019
+Schronisko Wschodnie pod Skałką;N-2.73;6;;;krasowa;242;624110.7894;289808.2929;20.7492;50.4622
+Jaskinia Hematytowa;G-2.25;13;4.5;9;krasowo-tektoniczna;243;595618.2602;331869.8913;20.3586;50.8458
+Schronisko Dolne pod Starym Piekłem;G-5.4;2.5;;;krasowa;244;592489.5204;330763.1017;20.3139;50.8364
+Schron pod Studniami;N-30Ex;4;;;brak danych;245;618082.4357;296589.3589;20.6664;50.5244
+Schronisko Okopcone;G-2.15;4.5;;;krasowa;246;609406.5394;329052.6503;20.5536;50.8181
+Jaskinia w Unikowie;N-15Ex;;;;brak danych;247;616495.3454;298005.8311;20.6444;50.5375
+Jaskinia Deszczowa;N-25Ex;14;7.5;7.5;krasowa;248;619499.5434;295756.4106;20.6861;50.5167
+Smocza Jama;T.E-08.07;40;16.5;16.5;krasowa;249;563146.1587;152621.2673;19.8677;49.2378
+Schronisko Jacka;G-2.5;2;;;krasowa;250;613856.54;334059.9598;20.6183;50.8622
+Schronisko Mysia Nora;N-24Ex;6;;;krasowa;251;613952.9033;289949.5377;20.6061;50.4656
+Jaskinia Jeleniowska;G-1.30;36;8;8;krasowa;252;613741.3171;333964.7594;20.6167;50.8614
+Jamy w Podwalu;N-2.83;8;;2;krasowa;253;668237.8334;306979.3184;21.3783;50.6056
+Kalacki Tunelik;T.C-15.05;7;4.2;4.2;tektoniczno-krasowa;254;570137.574;154582.5313;19.9641;49.2547
+Dziura;T.B-14.01;180.4;18.6;43.4;krasowa;255;568561.0846;156399.135;19.9428;49.2712
+Okno w Jatkach I;T.B-12.02;3;;;tektoniczno-krasowa;256;566988.728;155527.8403;19.921;49.2636
+Studnia Jaskini Wysokiej w Podgrodziu;G-8.3;4;3;3;tektoniczna;257;678997.4879;340656.4202;21.5467;50.905
+Jaskinia Kalacka;T.C-16.01;405;6.5;19;krasowa;258;570414.6182;154652.8376;19.968;49.2553
+Jaskinia nad Zalewem;G-7.14;8;;;tektoniczna;259;652114.1429;351139.4482;21.1689;51.0069
+Jama Agi;G-7.19;8;;1.5;tektoniczna;260;616194.9953;369917.5607;20.6631;51.1842
+Schron z Prowokatorem;T.A-17.02;3;;;brak danych;261;571601.669;157163.9521;19.9847;49.2778
+Schronisko Gotyckie;G-7.15;9;;1.5;tektoniczna;262;651974.1514;351258.9407;21.1669;51.0081
+Szczelina w Suchym Żlebie;T.C-15.03;3;;;tektoniczno-krasowa;263;570002.6405;154581.9605;19.9623;49.2547
+Schronisko w Bałtowie;G-8.9;2.5;;;krasowo-tektoniczna;264;678270.9787;352655.7073;21.5422;51.0131
+Jaskinia Filipczańska Niżnia;T.B-24.04;14;;1.5;erozyjna.wietrzeniowa;265;578600.1362;146812.0987;20.0789;49.1838
+Nisza w Jatkach;T.B-12.06;6;;1.75;krasowa;266;567071.941;155594.0179;19.9222;49.2642
+Korytarzyk nad Kalacką;T.C-16.03;3.6;;;tektoniczno-krasowa;267;570410.22;154667.7158;19.9679;49.2555
+Komora w Jatkach;T.B-12.08;8.5;0.8;0.8;krasowa;268;567175.3744;155651.7339;19.9236;49.2647
+Schronisko Trójkątne;G-8.4;2;;;wietrzeniowa.krasowa;269;678972.6382;340810.1161;21.5464;50.9064
+Korytarzyk przy Kalackiej;T.C-16.02;4.3;;1.1;krasowo-tektoniczna;270;570412.7465;154647.79;19.9679;49.2553
+Okap nad Jamą;G-7.16;6;;;tektoniczna;271;651974.1514;351258.9407;21.1669;51.0081
+Tomkowa Dziura;G-7.20;8;;1;erozyjna;272;616214.402;369917.9997;20.6633;51.1842
+Jaskinia Jubileuszowa;G-19Ex;;;;tektoniczna;273;615397.9389;333321.6517;20.64;50.8553
+Schronisko Dolne w Podgrodziu;G-8.6;3;;1;tektoniczna;274;678952.0518;340840.3163;21.5461;50.9067
+Koleba za Kończystą;T.B-09.07;4.5;;;tektoniczna;275;563888.141;155594.7449;19.8784;49.2645
+Dziurawa Nisza w Jatkach;T.B-12.07;17;;;krasowa;276;567096.3855;155614.6571;19.9225;49.2644
+Grota w Jaworzyńskim Żlebie;T.A-24.02;8.5;;;krasowa;277;578176.1185;157742.202;20.0752;49.2822
+Dziura w Kończystej Turni;T.B-09.01;16.5;0.7;2.2;krasowa;278;563899.7169;155535.0744;19.8786;49.264
+Okap w Kończystej Turni;T.B-09.10;10;;6;krasowa;279;563940.7287;155496.1751;19.8791;49.2636
+Jaskinia w Jaworzyńskim Żlebie;T.A-24.03;10;;;krasowa;280;578234.471;157803.7262;20.0761;49.2827
+Jaskinia w Laskowej II;G-9Ex;;;;brak danych;281;608377.7326;340831.5469;20.5425;50.9242
+Grzybowa Dziura;G-7.28;5.5;;;tektoniczna;282;623227.6957;358402.7912;20.7597;51.0792
+Schronisko w Międzyścianach III;T.C-05.03;3;;;tektoniczna;283;559684.236;154256.0082;19.8204;49.2529
+Frapująca Nyża;T.C-15.07;6;;1.8;tektoniczno-krasowa;284;570171.5345;154621.4159;19.9646;49.2551
+Nyża nad Olczyską II;T.B-18.01;3.5;;1.5;brak danych;285;572892.1269;155822.363;20.0022;49.2656
+Szczelina przy Lodowej nad Kufą;T.D-06.09;12;;3.9;tektoniczno-krasowa;286;561059.9627;153300.7976;19.8392;49.2442
+Jaskinia Babia w Podgrodziu;G-8.5;10;;0.5;krasowa;287;678952.0518;340840.3163;21.5461;50.9067
+Dziura za Smrekiem w Zawiesistej;T.B-10.02;13.5;;5;krasowo-tektoniczna;288;564437.0441;155439.334;19.8859;49.2631
+Kopalnia Maturka;T.D-08.35;120;18;18;tektoniczno-krasowa;289;562547.4626;153562.0565;19.8597;49.2464
+Jaskinia w Laskowej III;G-10Ex;;;;krasowo-tektoniczna;290;608041.4557;341040.7679;20.5378;50.9261
+Dziura pod Nosalem;T.A-17.01;12;;;tektoniczno-krasowa;291;571545.9101;157081.9015;19.9839;49.277
+Nyża z Mostem;T.C-15.04;4;;;tektoniczno-krasowa;292;570006.2432;154559.0643;19.9623;49.2545
+Schronisko pod Osiedłem;G-7.17;13;3.5;3.5;tektoniczna;293;630064.8866;359713.9581;20.8578;51.0894
+Gruzowa Jama;G-24Ex;2;;;tektoniczno-krasowa;294;581942.3273;343465.9094;20.1669;50.9522
+Jaskinia Niska;T.B-09.14;12.5;;;krasowa;295;563839.3847;155548.4723;19.8777;49.2641
+Mokra Koleba;T.C-15.06;11;;2.3;tektoniczno-krasowa;296;570150.8783;154570.8877;19.9643;49.2546
+Jaskinia Mydlnicka;J.GT-01.01Ex;75;;;tektoniczno-krasowa;297;560188.3107;247342.1212;19.8417;50.0903
+Jaskinia za Berberysem;G-8.7;4;1;1;krasowa;298;678911.9448;340869.843;21.5456;50.9069
+Kalacka Nyża I;T.C-15.09;4;;;tektoniczno-krasowa;299;570168.7577;154726.304;19.9646;49.256
+Schron w Wielkich Koryciskach;T.B-04.01;7.5;;4.3;krasowa;300;558156.8251;156032.8586;19.7997;49.269
+Lisia Jama;T.B-14.03;19;;;krasowa;301;568599.591;156379.1617;19.9433;49.2711
+Dziura za Głazami;T.C-15.01;25;;;tektoniczno-krasowa;302;570002.0591;154603.9371;19.9623;49.2549
+Tunel w Jatkach;T.B-12.01;6;;3.5;tektoniczno-krasowa;303;566978.3658;155541.5608;19.9209;49.2637
+Jaskinia Barłogowa;T.B-10.01;15;;2.7;krasowa;304;564291.6749;155455.48;19.8839;49.2632
+Schronisko Wsiowe;G-8.1;4;;1;krasowa;305;678998.5536;340625.5463;21.5467;50.9047
+Dziura w Kończystej Niżnia;T.B-09.02;3;;;tektoniczno-krasowa;306;563894.3259;155549.926;19.8785;49.2641
+Szczelina pod Frapującą Nyżą;T.C-15.08;3;;;tektoniczno-krasowa;307;570171.5345;154621.4159;19.9646;49.2551
+Dziurawe Okno;G-7.18;6.5;;;wietrzeniowa.erozyjna;308;629985.5446;359773.751;20.8567;51.09
+Siwiańska Dziura;T.A-06.01;7;;2;krasowa;309;559931.5815;156959.467;19.8242;49.2772
+Nyża nad Jaworzyńskim Żlebem;T.A-24.01;5;;;krasowa;310;578176.1215;157742.202;20.0752;49.2822
+Kalacka Szczelina;T.C-15.10;3;;;tektoniczna;311;570113.1831;154559.8941;19.9638;49.2545
+Jaskinia pod Gajem;G-8.8;7.5;2;2;tektoniczna;312;678971.9092;341397.395;21.5467;50.9117
+Grota Filipczańska Wyżnia;T.B-24.03;7;;;erozyjna.wietrzeniowa;313;578386.0411;156798.0768;20.0779;49.2737
+Schronisko Wschodnie w Kończystej;T.B-09.16;7.5;;2.6;tektoniczna;314;564011.4465;155468.0578;19.8801;49.2634
+Kalacka Nyża II;T.C-15.11;4.8;;;tektoniczno-krasowa;315;570164.9522;154681.2198;19.9645;49.2556
+Dziura Stanikowa Niżnia;T.B-09.03;17;;;wietrzeniowa;316;564079.5998;155914.6888;19.8811;49.2674
+Wojtkowa Szpara;T.C-05.06;65;12;12;tektoniczna;317;559301.5861;154777.6702;19.8152;49.2576
+Schronisko w Zlepieńcach;G-6.3;5;1.5;1.5;tektoniczna;318;579530.5746;360694.0879;20.1364;51.1075
+Okno w Jatkach II;T.B-12.03;3;;;tektoniczno-krasowa;319;566989.7524;155526.8677;19.921;49.2636
+Nyża pod Progiem w Kończystej;T.B-09.15;4.5;;3;tektoniczna;320;564020.3774;155508.2786;19.8802;49.2637
+Jaskinia w Bliżynie;G-14Ex;;;;brak danych;321;622604.0238;362527.937;20.7522;51.1164
+Schronisko Dujące;G-6.Ex;;;;brak danych;322;607777.0919;335907.3217;20.5325;50.88
+Jaskinia w Szczukowskich Górkach;G-7Ex;;;;krasowa;323;606932.0203;336136.9775;20.5206;50.8822
+Schronisko Zachodnie na Miedziance;G-2.21;3;;;krasowo-tektoniczna;324;595575.7561;332054.441;20.3581;50.8475
+Schron pod Kończystą;T.B-09.08;3;;;krasowa;325;563896.5725;155465.0184;19.8785;49.2633
+Jaskinia przy Cmentarzu;G-16Ex;57;;;krasowa;326;614139.6204;333633.6784;20.6222;50.8583
+Nyża w Wąwozie Między Ściany;T.D-05.05;6.8;;3.4;tektoniczno-krasowa;327;559621.5505;154207.3688;19.8195;49.2525
+Jaskinia Chalcedonitowa I;G-5.9;10;2.5;2.5;krasowa;328;592541.8103;330022.7218;20.3144;50.8297
+Mała Dziura Giewontowa;T.C-13.05;2.9;;0.5;brak danych;329;567826.7799;154569.3809;19.9324;49.2549
+Schronisko w Międzyścianach II;T.C-05.02;5;;;tektoniczno-krasowa;330;559670.1203;154260.6327;19.8202;49.2529
+Piwnica Zamkowa;G-7.26;4;;;tektoniczna;331;623228.4337;358371.9132;20.7597;51.0789
+Jaskinia z Prześwitami;G-2.6;14;;;tektoniczna;332;602933.2504;328858.8066;20.4617;50.8175
+Niespodzianka;G-2Ex;18;5;5;krasowa;333;608572.8926;340835.6303;20.5453;50.9242
+Schronisko w Międzyścianach nad II;T.C-06.07;4;;;tektoniczna;334;559670.1193;154260.6327;19.8202;49.2529
+Kamienne Mleko;T.D-04.03;430;15.8;30.3;krasowo-tektoniczna;335;558926.677;153344.3293;19.8099;49.2448
+Szczelina Przysłopczańska;T.B-10.03;17;12.5;12.5;tektoniczno-krasowa;336;564552.1897;155432.3845;19.8875;49.263
+Jaskinia w Laskowej I;G-8Ex;170;15;18.5;krasowa;337;608611.908;336171.8466;20.5444;50.8822
+Jaskinia Korytarzowa;T.D-17.03;18;;;krasowa;338;571482.6523;154183.2728;19.9826;49.251
+Jaskinia pod Szczytem;T.D-17.04;28;;14.5;tektoniczno-krasowa;339;571424.1578;154202.7178;19.9818;49.2512
+Jaskinia w Cycku;T.B-17.01;18;6;6;tektoniczna;340;571113.4974;155860.8253;19.9778;49.2661
+Piekło pod Małogoszczem;G-5.3;17.5;1;5;krasowo-tektoniczna;341;592195.1289;330819.6506;20.3097;50.8369
+Nyża pod Zawracikiem;T.D-17.14;4.5;;;tektoniczna;342;571620.8623;154138.3585;19.9844;49.2506
+Jaskinia w Jatkach;T.B-12.04;6;0.7;0.7;tektoniczno-krasowa;343;566989.7494;155526.8677;19.921;49.2636
+Płaska Jama w Skałkach Dalejowskich;G-7.23;3.5;;;tektoniczna.erozyjna;344;623189.5323;358370.9835;20.7592;51.0789
+Schronisko Pustułek;G-1.41;6.5;;;krasowa;345;605183.6878;333691.8051;20.495;50.8606
+Dziura Stanikowa Wyżnia;T.B-09.04;13;;;wietrzeniowa;346;564064.0706;155897.2844;19.8809;49.2672
+Dziura w Żlebku;T.B-09.11;11;;;tektoniczna;347;563951.5117;155466.472;19.8793;49.2634
+Schron w Skale Kmietowicza I;T.C-05.04;4.5;;1;tektoniczno-krasowa;348;559314.8139;154731.0391;19.8154;49.2572
+Jaskinia Chalcedonitowa II;G-5.10;2.5;1;1;tektoniczna;349;589608.4196;329971.3672;20.2728;50.8297
+Jaskinia w Małym Krakowie;T.C-08.01;12;;2.6;tektoniczno-krasowa;350;563210.5329;152944.8441;19.8687;49.2407
+Schronisko w Międzyścianach I;T.C-05.01;4;;;tektoniczno-krasowa;351;559642.649;154278.8983;19.8198;49.2531
+Jaskinia na Ołowiance;G-3Ex;;;;krasowa;352;596671.0401;332043.8034;20.3736;50.8472
+Jaskinia Wodna;G-2.16;16;4;4;krasowa;353;609467.0886;328034.5189;20.5542;50.8089
+Jasiowy Schron;T.A-12.02;2.3;;;krasowa;354;566705.7196;156778.8767;19.9173;49.2749
+Kominek w Jatkach;T.B-12.05;5.3;;5.2;tektoniczna;355;566984.1533;155511.7253;19.9209;49.2634
+Schron za Irgą;T.B-13.01;4;;;wietrzeniowa;356;567615.0604;156094.5739;19.9297;49.2686
+Schronisko Górne nad Starym Piekłem;G-5.6;4;1;1;krasowa;357;592489.5204;330763.1017;20.3139;50.8364
+Dziura Niżnia w Kończystej Turni;T.B-09.05;6.5;;1.5;wietrzeniowa.krasowa;358;563875.8033;155494.4572;19.8782;49.2636
+Stroma Szczelina;G-8.10;10.5;2.5;6;krasowo-tektoniczna;359;678250.4371;352685.9096;21.5419;51.0133
+Duża Dziura w Jaworzni;G-1.39;15;;4;tektoniczna;360;605281.4013;333693.784;20.4964;50.8606
+Tatowa Szczelina;T.C-09.01;3.7;3.5;3.5;tektoniczno-krasowa;361;563327.3542;154499.3285;19.8705;49.2547
+Ciasna Norka;T.B-09.13;2.4;0.6;0.6;krasowa;362;563927.4629;155430.8493;19.8789;49.263
+Dziura Wyżnia;T.B-14.02;160;11;14;krasowa;363;568603.4915;156345.2775;19.9434;49.2708
+Wilcza Jama;G-7.24;3.5;1;1;tektoniczna;364;623131.1801;358369.5895;20.7583;51.0789
+Mała Dziurawa Studnia;G-5.12;6;3.5;3.5;krasowa;365;592719.9531;327709.3035;20.3164;50.8089
+Jaskinia w Jaźwicy;G-12Ex;6;3;3;krasowa;366;605770.579;326938.722;20.5014;50.7997
+Jaskinia Okopcona;G-13Ex;20;;;brak danych;367;609406.5394;329052.6503;20.5536;50.8181
+Schron w Skale Kmietowicza II;T.C-05.05;5.5;;1.1;tektoniczna;368;559695.4919;152281.1027;19.8203;49.2351
+Jaskinia Nowa na Miedziance;G-2.19;26;10;10;krasowo-tektoniczna;369;595633.8333;332086.3976;20.3589;50.8478
+Jaskinia w Rudkach;G-20Ex;45;30;30;brak danych;370;647670.3482;338773.6624;21.1006;50.8969
+Nyża przy Jatkach;T.B-12.09;3;;;krasowa;371;567127.7817;155750.4371;19.923;49.2656
+Jaskinie na Rzepce;G-4Ex;;;;krasowa;372;602135.7432;326619.0468;20.4497;50.7975
+Schronisko Ciasne;G-5.7;4;;;krasowa;373;592489.5204;330763.1017;20.3139;50.8364
+Mała Dziura w Kończystej Turni;T.B-09.06;3.3;1;1;krasowa;374;563879.2101;155554.5241;19.8783;49.2642
+Szpara w Łomiku;G-8.11;4;0.5;0.5;tektoniczna;375;678304.6024;352811.4238;21.5428;51.0144
+Grota Filipczańska nad Mostkiem;T.B-24.01;10;;;tektoniczno-krasowa;376;578535.7437;157751.7199;20.0802;49.2822
+Jaskinia Gwarecka;G-2.4;84;21;21;krasowa;377;604778.4639;329544.3229;20.4881;50.8233
+Nyża Giewontowa;T.C-13.03;3.5;;;tektoniczno-krasowa;378;568054.4349;154541.4163;19.9355;49.2546
+Schronisko w Starej Kamionce;G-1Ex;6;2.5;2.5;krasowa;379;584358.4126;332848.6999;20.1989;50.8564
+Schronisko z Kością;G-7.25;4;0.5;0.5;tektoniczna;380;623227.6957;358402.7912;20.7597;51.0792
+Dziura w Organach II;T.D-09.10;5;;;tektoniczno-krasowa;381;563320.4812;153625.4876;19.8703;49.2469
+Jaskinia w Dudzińcu;T.D-05.09;17;3.5;5;tektoniczno-krasowa;382;559730.3176;153685.4577;19.821;49.2478
+Sowia Jama I;T.D-08.42;18;9.2;9.2;tektoniczno-krasowa;383;562879.0603;153685.7828;19.8642;49.2474
+Otwarty Schron;T.D-08.27;17;7;7;krasowo-tektoniczna;384;562401.3578;153568.1878;19.8576;49.2464
+Szczelina za Okrętem I;T.D-08.46;13.5;;3.5;tektoniczno-krasowa;385;562478.5919;154125.0126;19.8588;49.2514
+Szczelina nad Jaskinią w Dudzińcu;T.D-05.10;15;;8.5;tektoniczno-krasowa;386;559730.3186;153685.4578;19.821;49.2478
+Schron pod Kufą Zachodni;T.D-06.12;7.4;;3.7;tektoniczna;387;560992.2587;153403.9649;19.8383;49.2451
+Schron ze Świeczką;T.D-08.52;4.7;;;krasowo-tektoniczna;388;563054.1673;153981.301;19.8667;49.2501
+Zamczysko Wyżnie;T.D-08.59;38;;10.4;tektoniczno-krasowa;389;563209.8662;153650.5507;19.8688;49.2471
+Jaskinia Naciekowa;T.D-08.14;1210;62;97;krasowo-tektoniczna;390;563168.6761;153923.354;19.8682;49.2496
+Schron przy Naciekowej;T.D-08.54;11;;;krasowo-tektoniczna;391;563180.6959;153921.6728;19.8684;49.2495
+Schronisko przy Ścianach;T.D-05.02;6.5;;1.5;tektoniczno-krasowa;392;559871.7978;153854.1338;19.8229;49.2493
+Jaskinia Balkonowa;T.D-08.13;22;;;krasowo-tektoniczna;393;563221.0284;153870.76;19.869;49.2491
+Szczelina za Okrętem II;T.D-08.47;11;;;tektoniczno-krasowa;394;563069.1151;154058.6664;19.8669;49.2508
+Jaskinia Lodowa nad Kufą;T.D-06.08;20;3.5;3.5;tektoniczna;395;561044.3186;153325.3738;19.839;49.2444
+Jaskinia Niedźwiedzia Niżnia;T.D-10.03;24;2.5;4;krasowo-tektoniczna;396;565121.5374;153748.1007;19.8951;49.2478
+Dziurawa Koleba;T.D-08.45;4.5;;;krasowo-tektoniczna;397;563126.3688;153859.2595;19.8677;49.249
+Korytarz z Różą;T.D-08.28;8.8;;;tektoniczno-krasowa;398;563221.7947;153841.7916;19.869;49.2488
+Szczelina w Żlebie Kirkora;T.D-13.04;5.5;;4;tektoniczno-krasowa;399;567688.7896;154419.785;19.9305;49.2535
+Okno w Zamczysku;T.D-08.60;9;8;8;krasowa;400;563199.2888;153672.2623;19.8686;49.2473
+Dziura nad Wapiennikiem;T.D-08.37;14.5;;;krasowo-tektoniczna;401;562901.7318;154151.2005;19.8646;49.2516
+Dziura w Organach VI;T.D-08.55;6;;;tektoniczno-krasowa;402;563028.8135;153692.743;19.8663;49.2475
+Dziura pod Oknem;T.D-08.12;33;9;9;krasowo-tektoniczna;403;563187.3581;153858.8736;19.8685;49.249
+Zimna Szczelina II;T.D-08.39;15.5;;7;tektoniczna;404;562784.1864;153682.2736;19.8629;49.2474
+Jaskinia Śpiących Rycerzy;T.D-12.01;250;33;46;tektoniczno-krasowa;405;560219.4179;154468.0868;19.8278;49.2547
+Sowia Jama III;T.D-08.44;5;;;tektoniczna;406;562854.1384;153683.1244;19.8639;49.2474
+Szczelina za Okrętem III;T.D-08.48;3.7;;;tektoniczno-krasowa;407;563068.1152;154058.6399;19.8669;49.2508
+Jaskinia nad Mostkiem Wyżnia;T.D-08.03;25;1;8.5;tektoniczno-krasowa;408;562761.5799;154083.518;19.8627;49.251
+Jaskinia Krwawego Nosa;T.D-08.18;14;;;tektoniczno-krasowa;409;563195.0874;153831.089;19.8686;49.2487
+Jaskinia Niedźwiedzia Średnia;T.D-10.04;18;5.8;7.7;krasowo-tektoniczna;410;565126.1615;153573.2902;19.8951;49.2462
+Bardzo Niska Nyża;T.D-08.57;3.1;;;krasowa;411;563124.8523;153614.3151;19.8676;49.2468
+Nyża z Dzięglem;T.D-08.61;4;;;tektoniczno-krasowa;412;563203.687;153619.3993;19.8687;49.2468
+Suchy Biwak;T.E-07.02;70;;;tektoniczno-krasowa;413;561357.6066;153158.7302;19.8432;49.2429
+Dziura nad Wantulami I;T.D-10.06;5.2;;3.5;tektoniczno-krasowa;414;565047.1481;153726.1406;19.894;49.2476
+Przelot;T.D-08.11;9;;;tektoniczno-krasowa;415;563222.2365;153900.7802;19.869;49.2493
+Zimna Szczelina I;T.D-08.38;25;;7.5;tektoniczna;416;562801.4859;153670.7359;19.8632;49.2473
+Dziura w Organach IV;T.D-09.08;6.5;;5;tektoniczno-krasowa;417;563273.0812;153641.2271;19.8696;49.247
+Chelosiowa Jama-Jaskinia Jaworznicka;G-1.42;3670;57;61;krasowa.krasowo-tektoniczna;418;605460.419;333542.9617;20.4989;50.8592
+Zimna Szczelina III;T.D-08.40;8;4;4;tektoniczno-krasowa;419;562758.1297;153533.6424;19.8625;49.2461
+Wielka Nyża;T.D-08.26;9;;8;tektoniczno-krasowa;420;562549.5599;153596.0986;19.8597;49.2467
+Schronisko obok Kochanowa II;J.GT-02.02Ex;3;;;brak danych;421;553310.59;249739.3262;19.7458;50.1125
+Jaskinia w Małej Świstówce;T.D-10.05;50;6.5;6.5;krasowo-tektoniczna;422;565143.3932;153488.7786;19.8953;49.2454
+Gawra;T.E-09.01;17;1.8;1.8;krasowo-tektoniczna;423;563668.7982;152550.1234;19.8749;49.2371
+Nisza z Jaworem;T.D-08.49;10.4;;;tektoniczno-krasowa;424;563046.0494;154137.0253;19.8666;49.2515
+Jaskinia Zawaliskowa w Stołach;T.D-08.25;8;;;tektoniczno-krasowa;425;562606.2537;153644.5798;19.8605;49.2471
+Dziura nad Wantulami II;T.D-10.07;3;;2;tektoniczno-krasowa;426;565052.0095;153731.2673;19.8941;49.2476
+Wiciowy Schron;T.D-08.41;4.3;;;krasowo-tektoniczna;427;562731.6887;153512.9508;19.8622;49.2459
+Piwnica;T.D-04.06;4;;;krasowa;428;559039.4027;153428.2782;19.8114;49.2455
+Jaskinia pod Baranami;T.D-06.01;23;;5;krasowo-tektoniczna;429;560754.1054;153375.6742;19.835;49.2449
+Nyża pod Brzózką;T.D-13.05;4;;;tektoniczno-krasowa;430;567666.2414;154365.2087;19.9301;49.253
+Jaskinia Zamczysko Niżnie;T.D-08.58;58;-2.5;9.6;krasowo-tektoniczna;431;563189.698;153657.0144;19.8685;49.2472
+Dziura w Organach III;T.D-09.09;3;;;tektoniczno-krasowa;432;563248.7498;153578.6077;19.8693;49.2464
+Schron w Piecu;T.D-10.02;2.8;;;krasowa;433;564493.1102;153773.4611;19.8864;49.2481
+Schron pomiędzy Żwirowymi Dziurami;T.D-09.07;2;;;tektoniczno-krasowa;434;563249.2135;153825.5235;19.8693;49.2487
+Jaskinia Zakopiańska;T.D-09.01;46;11;12;krasowo-tektoniczna;435;564124.826;152807.0897;19.8812;49.2394
+Korytarz do Naciekowej;T.D-08.04;10.5;6;6;krasowa;436;563111.2426;153939.8277;19.8675;49.2497
+Schronisko przy Jaskini w Dudzińcu;T.D-05.08;3;;;wietrzeniowa;437;559745.0378;153695.8431;19.8212;49.2478
+Jaskinia Mała;T.D-04.04;40;;2.2;tektoniczno-krasowa;438;559051.0754;153440.5821;19.8116;49.2456
+Schronisko Galenowe;G-23Ex;5;;;krasowa;439;596591.6988;332104.1062;20.3725;50.8478
+Jaskinia Wysoka w Podgrodziu;G-8.2;6.5;;3;tektoniczna;440;678997.4879;340656.4202;21.5467;50.905
+Nyża przy Schodkach;T.D-11.02;6;;4;tektoniczno-krasowa;441;566274.7857;153608.6716;19.9109;49.2464
+Jaskinia Miętusia Wyżnia;T.D-10.01;810;108;145;tektoniczno-krasowa;442;565153.1282;153499.0323;19.8955;49.2455
+Dziura w Organach I;T.D-09.11;8;;3;krasowa;443;563328.759;153652.696;19.8704;49.2471
+Kozia Grota;T.D-13.01;7.4;;;tektoniczno-krasowa;444;568201.8313;154335.3939;19.9375;49.2527
+Schron w Opalonem I;T.D-06.10;4;;;krasowa;445;560647.5784;153850.6653;19.8336;49.2492
+Dziurawiec;T.D-08.01;22;;;tektoniczno-krasowa;446;562949.1837;154322.3892;19.8653;49.2532
+Dziura nad Potokiem;T.D-05.01;150;;;krasowo-tektoniczna;447;559313.4583;153951.3187;19.8153;49.2502
+Dziura nad Wantulami III;T.D-10.08;3.4;;;tektoniczno-krasowa;448;565071.9879;153731.7958;19.8944;49.2476
+Schron pod Jaskinią Goryckiego;T.D-08.20;6;;;tektoniczno-krasowa;449;563001.8593;153955.9267;19.866;49.2499
+Zbójnicka Nyża;T.D-08.16;15;3.7;3.7;tektoniczno-krasowa;450;563157.7546;153882.0811;19.8681;49.2492
+Nyża w Siodłowej Turni;T.D-13.06;13;;1.4;tektoniczno-krasowa;451;567445.0868;153769.5796;19.927;49.2477
+Szczelina w Niedźwiedziu;T.D-11.03;6;;1.5;tektoniczno-krasowa;452;566137.5292;153884.9345;19.909;49.2489
+Dziura w Organach V;T.D-09.12;4.5;;;tektoniczno-krasowa;453;563245.8432;153688.4879;19.8693;49.2474
+Jaskinia Rybia;T.D-04.05;358;;6;tektoniczno-krasowa;454;559118.1294;153475.3424;19.8125;49.2459
+Nyża nad Olczyską I;T.C-18.01;4;;;tektoniczno-krasowa;455;573056.2086;155639.2836;20.0044;49.2639
+Schronisko Dudowe;T.D-06.05;7;;;tektoniczno-krasowa;456;560613.179;153374.9453;19.833;49.2449
+Siwarowa Dziura;T.D-12.02;33;;5.2;krasowa;457;566534.3484;153810.4637;19.9145;49.2482
+Nyża przy Starym Szlaku;T.D-13.07;3.9;;;tektoniczno-krasowa;458;567434.1466;153994.2057;19.9269;49.2497
+Lejek;T.D-08.21;4.5;1.5;1.5;tektoniczna;459;563154.3128;153860.9983;19.868;49.249
+Jaskinia w Mogiłkach;G-11Ex;9;;;krasowa;460;611052.0818;340857.2515;20.5806;50.9239
+Kominek Giewontowy;T.C-13.04;14.7;6;12;krasowa;461;568067.419;154541.7598;19.9357;49.2546
+Podwójna Szczelina;T.D-10.09;10;;4.5;tektoniczno-krasowa;462;565107.6106;153707.7477;19.8949;49.2474
+Jaskinie na Kadzielni;G-17Ex;;;;krasowa;463;613741.9931;333933.8819;20.6167;50.8611
+Rajska Brama;G-7.27;4.5;0.5;0.5;tektoniczna;464;623227.6957;358402.7912;20.7597;51.0792
+Nyża nad Siodłem;T.D-13.08;5.3;;3.5;tektoniczna;465;567505.5248;153941.1146;19.9279;49.2492
+Jaskinia Błotna;T.D-12.05;28;2.7;2.7;tektoniczno-krasowa;466;566477.4548;153694.0023;19.9137;49.2471
+Jaskinia Zawaliskowa w Długim Giewoncie;T.D-14.03;51;4.9;6.6;tektoniczna;467;568493.3166;154275.1303;19.9415;49.2521
+Nyża w Kończystej;T.B-09.09;3;;;krasowo-tektoniczna;468;563930.4812;155505.9011;19.879;49.2637
+Schron Traperów;G-7.29;2.5;;1;erozyjna;469;661492.7634;335476.933;21.2956;50.8636
+Schronisko przy Jaskini Mydlnickiej I;J.GT-01.02Ex;16;;;brak danych;470;560087.2545;247495.3791;19.8403;50.0917
+Schronisko Krecie;J.Cz.IV-01.09;3;1.2;1.2;tektoniczna;471;531104.6892;281367.6416;19.4378;50.3986
+Dziura w Szczerbie II;T.D-13.02;3.5;;;tektoniczna;472;568205.128;154059.584;19.9375;49.2502
+Filipczańska Szczelina;T.B-24.02;4;;2;tektoniczna;473;578562.0496;156757.7496;20.0803;49.2733
+Dudowa Studnia;T.D-06.02;80;;35;tektoniczno-krasowa;474;560582.4752;153402.1219;19.8326;49.2451
+Szczelina w Wołowym Żlebie;T.D-10.10;14;;11;tektoniczna;475;565132.7176;153703.4138;19.8952;49.2474
+Schron przy Szczelinie;T.D-04.07;7;;5;tektoniczno-krasowa;476;558999.4572;153351.2524;19.8109;49.2448
+Brama Piekło;G-7.21;3;0.5;0.5;tektoniczna;477;622162.3015;358192.0631;20.7444;51.0775
+Płaska Nyża;T.C-15.02;2;;;krasowa;478;570009.4937;154625.1261;19.9624;49.2551
+Tunel pod Siwarową Dziurą;T.D-12.04;7;;4.5;tektoniczno-krasowa;479;566579.6952;153796.6689;19.9151;49.2481
+Szczelina nad Mostkiem;T.D-08.22;5;;1.7;tektoniczna;480;562747.8617;154035.1739;19.8625;49.2506
+Dziura w Stołach;T.D-08.23;3.3;;;tektoniczno-krasowa;481;562301.1164;153616.5161;19.8563;49.2469
+Jaskinie na Wietrzni;G-18Ex;;;;brak danych;482;615514.5204;333355.1343;20.6417;50.8556
+Schronisko Sympozjalne;G-7.30;4;;;tektoniczna;483;616406.3696;370015.0309;20.6661;51.185
+Schron Partyzantów;T.D-12.03;7.5;4;4;krasowa;484;566564.4501;153806.2619;19.9149;49.2481
+Szczelina Chochołowska;T.D-04.02;2320;;60;krasowo-tektoniczna;485;559018.8575;153336.7716;19.8111;49.2447
+Jaskinia w Sudole;G-21Ex;20;6;6;tektoniczna;486;673484.1371;348876.3208;21.4722;50.9806
+Schronisko w Małym Żlebku;T.A-12.01;3;;;krasowa;487;566339.1623;156654.2229;19.9123;49.2738
+Jaskinia Miętusia;T.D-11.01;10780;283;305;krasowo-tektoniczna;488;565409.5715;153591.7827;19.899;49.2463
+Dziura w Szczerbie I;T.D-13.03;17;6;6;tektoniczna;489;568186.2815;154054.0873;19.9372;49.2502
+Dziura nad Doliną Strążyską;T.C-13.02;34;;14;tektoniczno-krasowa;490;567991.2118;154550.7396;19.9346;49.2547
+Szemrzący Schron;T.D-06.03;3;;;tektoniczno-krasowa;491;561104.5372;153391.9408;19.8398;49.245
+Jaskinia Juhaska;T.D-14.01;23;16;16;krasowa;492;568617.7049;154523.3299;19.9432;49.2544
+Schron Wschodni pod Kufą;T.D-06.14;3;;;tektoniczna;493;561087.641;153501.4501;19.8396;49.246
+Duża Grota w Skałkach Dalejowskich;G-7.22;7;;;tektoniczna;494;623189.5323;358370.9835;20.7592;51.0789
+Dudowy Schron;T.D-06.06;2.8;;;tektoniczno-krasowa;495;560588.0215;153381.277;19.8327;49.2449
+Szczelina nad Zimną;T.D-08.19;6;;;tektoniczno-krasowa;496;563147.4321;153856.8178;19.8679;49.249
+Schron w Opalonem II;T.D-06.11;3.5;;;tektoniczna;497;560889.8919;153835.084;19.8369;49.249
+Okap na Wzgórzu Żary II;J.Cz.IV-02.29;10;;2.1;krasowa;498;537128.1737;283660.6897;19.5228;50.4189
+Jaskinia między Żleby;T.D-08.06;19;;;krasowo-tektoniczna;499;563055.6967;153961.3493;19.8667;49.2499
+Ruda Nyża;T.D-14.02;9;;5.4;tektoniczno-krasowa;500;568317.8845;154180.5228;19.9391;49.2513
