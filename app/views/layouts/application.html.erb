@@ -50,7 +50,8 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="<%=caves_path=%>">ProjectCaves</a>
+        <a class="navbar-brand" href="<%=caves_path=%>">
+          ProjectCaves</a>
         <div class="navbar-collapse collapse navbar-responsive-collapse">
           <ul class="nav navbar-nav">
             <li><%= link_to "Map", "/caves#section_map"  %></li>
@@ -60,6 +61,7 @@
             <% end %>
           </ul>
         </div>
+        <%= image_tag "logo_pig-pib01.png",  class: "menu_icon" %>
       </div>
     </div>
     <div class="container">
@@ -97,7 +99,7 @@
       </div><!--/row-->
 
       <footer>
-        <p>&copy; PGI NRI 2015</p>
+        <p>&copy;  <%= image_tag "logo_pig-pib01.png",  class: "icon_xs" %> PGI NRI 2015</p>
       </footer>
 
     </div> <!-- /container -->

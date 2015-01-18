@@ -1,3 +1,12 @@
+var TABLE = {
+  numberRows : function() {
+      for (i = 1; i < $('.row_number').length+1; i++) {
+      //  $('.row_number').text(i)
+      // console.log(i);
+      return i;
+      }
+    }
+};
 $(document).ready(function() {
 	$('.table').dataTable({
 	  // ajax: ...,
@@ -10,6 +19,7 @@ $(document).ready(function() {
 	  // Check dataTables documentation to learn more about available options.
 	  // http://datatables.net/reference/option/pagingType
 	});
+  
 	$(document).on('click', '.table, .paginate_button, .sorting, .sorting_desc, .sorting_asc', function() {
   		console.log("table sorting changed");
   		MAP.removeLayers();
@@ -25,4 +35,5 @@ $(document).ready(function() {
       MAP.removeLayers();
       MAP.addMarkers();
   });  
+
 });

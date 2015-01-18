@@ -79,7 +79,6 @@ var MAP = {
 	removeLayers : function() {
 		map.removeLayer(markers);
 	}
-
 };
 $(document).ready(function() {
 	MAP.createMap();
