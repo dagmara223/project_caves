@@ -6,6 +6,17 @@
   =require twitter-bootstrap-static/fontawesome
   */
 
+.show_wrapper{
+	width: 100%;
+}
+
+.show_table {
+	width: 40%;
+	float: left;
+}
+.show_map {
+}
+
 .dataTables_wrapper, .dataTables_paginate, .paginate_button{
 	padding: 0;
 }
