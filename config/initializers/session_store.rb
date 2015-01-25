@@ -2,9 +2,9 @@
 
 Rails.application.config.session_store :cookie_store, key: '_project_caves_session'
 
-# LeafletExample::Application.config.session_store :cookie_store, key: '_leaflet-example_session'
+# CavesApplication::Application.config.session_store :cookie_store, key: '_leaflet-example_session'
 
 # Use the database for sessions instead of the cookie-based default,
 # which shouldn't be used to store highly confidential information
 # (create the session table with "rails generate session_migration")
-# LeafletExample::Application.config.session_store :active_record_store
+# CavesApplication::Application.config.session_store :active_record_store

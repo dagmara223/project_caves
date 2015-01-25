@@ -5,4 +5,4 @@ require File.expand_path('../application', __FILE__)
 # Rails.application.initialize!
 
 # Initialize the rails application
-LeafletExample::Application.initialize!
+CavesApplication::Application.initialize!

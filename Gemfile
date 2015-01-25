@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'pdfkit'
 gem 'jquery-datatables-rails'
 gem 'devise'
 gem "twitter-bootstrap-rails"
+gem 'wkhtmltopdf-binary'
 gem 'will_paginate'
 #gem 'protected_attributes'
 gem 'leaflet-rails'

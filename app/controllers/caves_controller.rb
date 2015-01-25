@@ -11,6 +11,7 @@ class CavesController < ApplicationController
       format.html # index.html.erb
       format.json { render json: @caves }
     end
+
   end
 
   # GET /caves/1
@@ -21,7 +22,12 @@ class CavesController < ApplicationController
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @cave }
+      # format.pdf {
+      #   html = render_to_string(:template => "show.html.erb")
+      #   PDFKit.new(html)
+      # }
     end
+
   end
 
   # GET /caves/new

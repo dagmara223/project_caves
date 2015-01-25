@@ -13,8 +13,29 @@
  *= require caves
  *= require_self
  *= require leaflet
- *= require_tree .
  *= require dataTables/bootstrap/3/jquery.dataTables.bootstrap
  *= require bootstrap_and_overrides
  *= require easyPrint 
+ *= require_tree .
  */
+
+@media print {
+  body {
+    background-color: #FFF;
+  }
+
+  #container {
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  
+  #line_items {
+    page-break-before: always;
+  }
+  
+  #pdf_link {
+    display: none;
+  }
+}

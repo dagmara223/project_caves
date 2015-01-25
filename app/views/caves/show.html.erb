@@ -35,7 +35,11 @@
     <div id="map" style="height: 250px;"></div>
   </div>
 </div>
+<hr/>
 
+<p id="pdf_link"><%= link_to "pdf", cafe_path(@cave, :format => "pdf") %></p>
+
+<hr/>
 <%= link_to t('.back', :default => t("helpers.links.back")),
               caves_path, :class => 'btn btn-default'  %>
 <% if user_signed_in? %>
